@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhimei Ren</title>
+    <link>https://zhimeir.github.io/</link>
+    <description>Recent content on Zhimei Ren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zhimeir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://zhimeir.github.io/teaching/</link>
+      <pubDate>Wed, 28 Jul 2021 17:02:57 -0500</pubDate>
+      
+      <guid>https://zhimeir.github.io/teaching/</guid>
+      <description>As an Instructor   STATS 302 - Qualifying Exams Workshop (Theoretical Statistics). Summer 2018-2019.
+    As a Teaching Assistant   STATS 362 - Monte Carlo Methods. Winter 2019-2020.
+  STATS 305 - Methods for Applied Statistics. Spring 2018-2019.
+  STATS 200 - Introduction to Statistical Inference. Autumn 2018-2019, Winter 2017-2018, Winter 2016-2017, Autumn 2019-2020.
+  STATS 237P - Theory of Investment Portfolios and Derivative Securities.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://zhimeir.github.io/misc/</link>
+      <pubDate>Wed, 28 Jul 2021 17:00:45 -0500</pubDate>
+      
+      <guid>https://zhimeir.github.io/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://zhimeir.github.io/talks/</link>
+      <pubDate>Wed, 28 Jul 2021 16:50:34 -0500</pubDate>
+      
+      <guid>https://zhimeir.github.io/talks/</guid>
+      <description>Knockoffs with side information. Banff workshop, March 2020. (Cancelled due to COVID-19)
+  Derandomizing knockoffs: a stable multiple testing procedure. 54th Annual Conference on Information Sciences and Systems, March 2020. (Candelled due to COVID-19)
+  Knockoffs with side information. Seminar on Statistics and Data Science, The Hong Kong University of Science and Technology, March 2020.
+  Knockoffs with side information. Bernoulli-IMS One World Symposium, August 2020.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://zhimeir.github.io/research/</link>
+      <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
+      
+      <guid>https://zhimeir.github.io/research/</guid>
+      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Policy learning with adaptively collected data [reproduction code]
+Ruohan Zhan, Zhimei Ren*, Susan Athey and Zhengyuan Zhou
+  Conformalized survival analysis [software] [reproduction code] [website]
+Emmanuel Candès, Lihua Lei and Zhimei Ren*
+Major revision requested at Journal of the Royal Statistical Society: Series B (JRSS-B).
+  Doubly-adaptive Thompson Sampling for multi-armed and contextual Bandits</description>
+    </item>
+    
+  </channel>
+</rss>
