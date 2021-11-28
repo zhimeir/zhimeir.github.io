@@ -46,11 +46,10 @@
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
       
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Using multivariate models to examine the impact of COVID-19 pandemic and gender differences on health and health care [reprodution code]
-Jiancheng Ye, Zhimei Ren
-  Transfer learning in genome-wide association studies with knockoffs [reproduction code] [website]
-Shuangning Li, Zhimei Ren*, Chiara Sabatti and Matteo Sesia
-  Policy learning with adaptively collected data [reproduction code]</description>
+      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Sensitivity analysis of individual treatment effects: a robust conformal inference approach
+[software] [reproduction code] [website] Ying Jin, Zhimei Ren* and Emmanuel Candès
+  Using multivariate models to examine the impact of COVID-19 pandemic and gender differences on health and health care [reprodution code]
+Jiancheng Ye, Zhimei Ren</description>
     </item>
     
   </channel>
