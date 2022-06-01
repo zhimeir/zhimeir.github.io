@@ -47,7 +47,8 @@
       
       <guid>https://zhimeir.github.io/research/</guid>
       <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Derandomized knockoffs: leveraging e-values for false discovery rate control [reproduction code] Zhimei Ren and Rina Foygel Barber
-  Sensitivity analysis under the f-sensitivity models: definition, estimation and inference Ying Jin, Zhimei Ren* and Zhengyuan Zhou Runner up for Tom Ten Have Award at American Causal Inference Conference (ACIC) 2022 (presented by Ying Jin)</description>
+  Sensitivity analysis under the f-sensitivity models: definition, estimation and inference Ying Jin, Zhimei Ren* and Zhengyuan Zhou Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022)
+  Sensitivity analysis of individual treatment effects: a robust conformal inference approach [software] [reproduction code] [website] [talk]</description>
     </item>
     
   </channel>
