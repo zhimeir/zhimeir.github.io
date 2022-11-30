@@ -12,8 +12,8 @@
       <pubDate>Wed, 28 Jul 2021 17:02:57 -0500</pubDate>
       
       <guid>https://zhimeir.github.io/teaching/</guid>
-      <description>As an Instructor   STATS 302 - Qualifying Exams Workshop (Theoretical Statistics). Summer 2018-2019.
-    As a Teaching Assistant   STATS 362 - Monte Carlo Methods. Winter 2019-2020.
+      <description>As an Instructor at Stanford University   STATS 302 - Qualifying Exams Workshop (Theoretical Statistics). Summer 2018-2019.
+    As a Teaching Assistant at Stanford University   STATS 362 - Monte Carlo Methods. Winter 2019-2020.
   STATS 305 - Methods for Applied Statistics. Spring 2018-2019.
   STATS 200 - Introduction to Statistical Inference. Autumn 2018-2019, Winter 2017-2018, Winter 2016-2017, Autumn 2019-2020.
   STATS 237P - Theory of Investment Portfolios and Derivative Securities.</description>
@@ -34,10 +34,11 @@
       <pubDate>Wed, 28 Jul 2021 16:50:34 -0500</pubDate>
       
       <guid>https://zhimeir.github.io/talks/</guid>
-      <description>Knockoffs with side information. Banff workshop, March 2020. (Cancelled due to COVID-19)
-  Derandomizing knockoffs: a stable multiple testing procedure. 54th Annual Conference on Information Sciences and Systems, March 2020. (Candelled due to COVID-19)
-  Knockoffs with side information. Seminar on Statistics and Data Science, The Hong Kong University of Science and Technology, March 2020.
-  Knockoffs with side information. Bernoulli-IMS One World Symposium, August 2020.</description>
+      <description>Knockoffs with side information. Seminar on Statistics and Data Science, The Hong Kong University of Science and Technology, March 2020.
+  Knockoffs with side information. Bernoulli-IMS One World Symposium, August 2020. [video] [slides]
+  Derandomizing knockoffs. International Seminar on Selective Inference, October 2020. [video] [slides]
+  Dynamic batch learning in high-dimensional sparse linear contextual bandits. INFORMS Annual Meeting, October 2020. [slides]
+  Dynamic batch learning in high-dimensional sparse linear contextual bandits.</description>
     </item>
     
     <item>
