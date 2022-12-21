@@ -47,9 +47,10 @@
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
       
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Conformalized survival analysis with adaptive cutoffs Yu Gui, Rohan Hore, Zhimei Ren* and Rina Foygel Barber
-  Derandomized knockoffs: leveraging e-values for false discovery rate control [reproduction code] Zhimei Ren and Rina Foygel Barber
-  Sensitivity analysis under the f-sensitivity models: definition, estimation and inference Ying Jin, Zhimei Ren* and Zhengyuan Zhou Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022)</description>
+      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality
+Ying jin*, Zhimei Ren*, Zhuoran Yang and Zhaoran Wang
+  Conformalized survival analysis with adaptive cutoffs Yu Gui*, Rohan Hore*, Zhimei Ren* and Rina Foygel Barber
+  Derandomized knockoffs: leveraging e-values for false discovery rate control [reproduction code] Zhimei Ren and Rina Foygel Barber</description>
     </item>
     
   </channel>
