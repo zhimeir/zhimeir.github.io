@@ -47,10 +47,11 @@
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
       
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality
-Ying jin*, Zhimei Ren*, Zhuoran Yang and Zhaoran Wang
-  Conformalized survival analysis with adaptive cutoffs Yu Gui*, Rohan Hore*, Zhimei Ren* and Rina Foygel Barber
-  Derandomized knockoffs: leveraging e-values for false discovery rate control [reproduction code] Zhimei Ren and Rina Foygel Barber</description>
+      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
+[[reproduction code(https://github.com/zhimeir/saa_admm_paper)]] Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan
+  Iterative approximate cross-validation
+Yuetian Luo, Zhimei Ren and Rina Foygel Barber
+  Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality</description>
     </item>
     
   </channel>
