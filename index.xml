@@ -48,7 +48,7 @@
       
       <guid>https://zhimeir.github.io/research/</guid>
       <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
-[[reproduction code(https://github.com/zhimeir/saa_admm_paper)]] Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan
+[reproduction code] Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan
   Iterative approximate cross-validation
 Yuetian Luo, Zhimei Ren and Rina Foygel Barber
   Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality</description>
