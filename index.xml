@@ -5,55 +5,49 @@
     <link>https://zhimeir.github.io/</link>
     <description>Recent content on Zhimei Ren</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zhimeir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://zhimeir.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
       <link>https://zhimeir.github.io/teaching/</link>
       <pubDate>Wed, 28 Jul 2021 17:02:57 -0500</pubDate>
-      
       <guid>https://zhimeir.github.io/teaching/</guid>
-      <description>As an Instructor at Stanford University   STATS 302 - Qualifying Exams Workshop (Theoretical Statistics). Summer 2018-2019.
-    As a Teaching Assistant at Stanford University   STATS 362 - Monte Carlo Methods. Winter 2019-2020.
-  STATS 305 - Methods for Applied Statistics. Spring 2018-2019.
-  STATS 200 - Introduction to Statistical Inference. Autumn 2018-2019, Winter 2017-2018, Winter 2016-2017, Autumn 2019-2020.
-  STATS 237P - Theory of Investment Portfolios and Derivative Securities.</description>
+      <description>As an Instructor at University of Pennsylvania STAT 4310 - Statistical Inference. Fall 2023. As an Instructor at Stanford University STATS 302 - Qualifying Exams Workshop (Theoretical Statistics). Summer 2018-2019.
+As a Teaching Assistant at Stanford University STATS 362 - Monte Carlo Methods. Winter 2019-2020.
+STATS 305 - Methods for Applied Statistics. Spring 2018-2019.
+STATS 200 - Introduction to Statistical Inference. Autumn 2018-2019, Winter 2017-2018, Winter 2016-2017, Autumn 2019-2020.
+STATS 237P - Theory of Investment Portfolios and Derivative Securities.</description>
     </item>
-    
     <item>
       <title>Misc</title>
       <link>https://zhimeir.github.io/misc/</link>
       <pubDate>Wed, 28 Jul 2021 17:00:45 -0500</pubDate>
-      
       <guid>https://zhimeir.github.io/misc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://zhimeir.github.io/talks/</link>
       <pubDate>Wed, 28 Jul 2021 16:50:34 -0500</pubDate>
-      
       <guid>https://zhimeir.github.io/talks/</guid>
       <description>Knockoffs with side information. Seminar on Statistics and Data Science, The Hong Kong University of Science and Technology, March 2020.
-  Knockoffs with side information. Bernoulli-IMS One World Symposium, August 2020. [video] [slides]
-  Derandomizing knockoffs. International Seminar on Selective Inference, October 2020. [video] [slides]
-  Dynamic batch learning in high-dimensional sparse linear contextual bandits. INFORMS Annual Meeting, October 2020. [slides]
-  Dynamic batch learning in high-dimensional sparse linear contextual bandits.</description>
+Knockoffs with side information. Bernoulli-IMS One World Symposium, August 2020. [video] [slides]
+Derandomizing knockoffs. International Seminar on Selective Inference, October 2020. [video] [slides]
+Dynamic batch learning in high-dimensional sparse linear contextual bandits. INFORMS Annual Meeting, October 2020. [slides]
+Dynamic batch learning in high-dimensional sparse linear contextual bandits. MOILS (Operation Management Lunch Seminar).</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://zhimeir.github.io/research/</link>
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
-      
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests  Distribution-free inference Multiple hypothesis testing Data-driven decision making Causal inference Survival analysis   Publications and Preprints   Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
+      <description>Research interests Distribution-free inference Selective inference Data-driven decision making Causal inference Survival analysis Publications and Preprints Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
 [reproduction code]
 Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan
-  Iterative approximate cross-validation
+Iterative approximate cross-validation
 Yuetian Luo, Zhimei Ren and Rina Foygel Barber
-  Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality</description>
+International Conference on Machine Learning (ICML), 2023
+Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality</description>
     </item>
-    
   </channel>
 </rss>
