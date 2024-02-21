@@ -42,13 +42,13 @@ Dynamic batch learning in high-dimensional sparse linear contextual bandits. MOI
       <link>https://zhimeir.github.io/research/</link>
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests Distribution-free inference Selective inference Data-driven decision making Causal inference Survival analysis Publications and Preprints Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
+      <description>Research interests Distribution-free inference Selective inference Data-driven decision making Causal inference Survival analysis Publications and Preprints Not all distributional shifts are equal: Fine-grained robust conformal inference
+[reproduction code] Jiahao Ai and Zhimei Ren
+Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
 [reproduction code]
-Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan
+Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao and Xiaochuan Pan IEEE Transactions on Medical Imaging, 2024+
 Iterative approximate cross-validation
-Yuetian Luo, Zhimei Ren and Rina Foygel Barber
-International Conference on Machine Learning (ICML), 2023
-Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality</description>
+Yuetian Luo, Zhimei Ren and Rina Foygel Barber</description>
     </item>
   </channel>
 </rss>
