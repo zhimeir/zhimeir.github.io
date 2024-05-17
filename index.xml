@@ -42,7 +42,7 @@ Dynamic batch learning in high-dimensional sparse linear contextual bandits. MOI
       <link>https://zhimeir.github.io/research/</link>
       <pubDate>Wed, 28 Jul 2021 16:50:27 -0500</pubDate>
       <guid>https://zhimeir.github.io/research/</guid>
-      <description>Research interests Distribution-free inference Selective inference Data-driven decision making Causal inference Survival analysis Publications and Preprints -Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees
+      <description>Research interests Distribution-free inference Selective inference Data-driven decision making Causal inference Survival analysis Publications and Preprints Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees
 Yu Gui*, Ying Jin*, and Zhimei Ren*
 Boosting e-BH via conditional calibration
 [reproduction code]
