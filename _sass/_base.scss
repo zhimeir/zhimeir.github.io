@@ -3,7 +3,11 @@
  ******************************************************************************/
 
 // Typography
-
+body {
+  font-weight: 400;
+  font-size: 13px;
+  color: #990000; 
+}
 p,
 h1,
 h2,
@@ -26,12 +30,12 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 0.5rem;
     padding: 1px 1rem 1px 0;
   }
 
   th {
-    font-weight: bold;
+    font-weight: bolder;
   }
 }
 
@@ -61,7 +65,7 @@ blockquote {
   border-left: 5px solid var(--global-theme-color);
   margin: 1.5em 0;
   padding: 1em;
-  font-size: 1.2rem;
+  font-size: 0.5rem;
 
   p {
     margin-bottom: 0;
@@ -158,7 +162,7 @@ ul.task-list input[type="checkbox"] {
 // Caption
 
 .caption {
-  font-size: 0.875rem;
+  font-size: 0.5rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
   text-align: center;
@@ -430,7 +434,7 @@ ul.task-list input[type="checkbox"] {
 
 @media only screen and (max-width: 400px) {
   .wechat-modal > img {
-    width: 100%;
+    width: 30%;
   }
 }
 
@@ -460,7 +464,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 0.5rem;
 
   .container {
     text-align: center;
@@ -517,7 +521,7 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 1rem;
   }
 }
 
@@ -661,17 +665,17 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 0.5rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 0.5rem;
     }
   }
 
@@ -784,7 +788,7 @@ footer.sticky-bottom {
       }
 
       .hidden {
-        font-size: 0.875rem;
+        font-size: 0.5rem;
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
@@ -800,7 +804,7 @@ footer.sticky-bottom {
         }
 
         pre {
-          font-size: 1em;
+          font-size: 0.5em;
           line-height: 1.4em;
           padding: 10px;
         }
@@ -872,13 +876,13 @@ html.transition *:after {
 .post {
   .post-meta {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 0.5rem;
     margin-bottom: 0;
   }
 
   .post-tags {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 0.5rem;
     padding-top: 0.25rem;
     padding-bottom: 1rem;
 
@@ -958,7 +962,7 @@ progress::-moz-progress-bar {
     border-radius: 0.3rem;
     border-style: none;
     color: var(--global-text-color);
-    font-size: medium;
+    font-size: small;
     opacity: 0;
     position: absolute;
     right: 0.2rem;
@@ -1083,7 +1087,7 @@ nav[data-toggle="toc"] {
 
   .post-meta {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 0.5rem;
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
