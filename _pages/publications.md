@@ -95,7 +95,7 @@ Zhimei Ren, Yuting Wei, and Emmanuel Candès. *Journal of American Statistical A
   
   
 **Dynamic batch learning in high-dimensional sparse linear contextual bandits** [arXiv](https://arxiv.org/abs/2008.11918)    
-Zhimei Ren and Zhengyuan Zhou *Management Science, 2024*
+Zhimei Ren and Zhengyuan Zhou *Management Science, 2024*    
 Finalist, INFORMS Service Science Section 2021 Best Cluster Paper Award
   
   
