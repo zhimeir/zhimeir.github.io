@@ -78,7 +78,7 @@ Runner up for Tom Ten Have Award at American Causal Inference Conference (ACIC) 
 Shuangning Li\*, Zhimei Ren\*, Chiara Sabatti\*, and Matteo Sesia\*. *Sankhya B, 2022*
 
 
-**Policy learning with adaptively collected data** [arXiv](https://arxiv.org/abs/2105.02344) | [reproduction code](https://github.com/gsbDBI/PolicyLearning) . 
+**Policy learning with adaptively collected data** [arXiv](https://arxiv.org/abs/2105.02344) | [reproduction code](https://github.com/gsbDBI/PolicyLearning)     
 Ruohan Zhan\*, Zhimei Ren\*, Susan Athey, and Zhengyuan Zhou. *Management Science, 2024*
 
 **Conformalized survival analysis** [arXiv](https://arxiv.org/abs/2103.09763) | [software](https://github.com/zhimeir/cfsurvival) | [reproduction code](https://github.com/zhimeir/cfsurv_paper)| [website](https://zhimeir.github.io/cfsurvival/index.html)      
