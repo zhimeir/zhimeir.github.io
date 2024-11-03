@@ -10,6 +10,9 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2024
 ---
+**Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
+Xiaomeng Wang, Zhimei Ren,  Jiancheng Ye     
+
 **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)   
  Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. *Neural Information Processing Systems (NeurIPS), 2024*
 
