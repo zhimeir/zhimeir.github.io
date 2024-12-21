@@ -10,6 +10,14 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2024
 ---
+**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297)  
+Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou     
+
+
+**Conformalized Time Series with Semantic Features** [paper](https://openreview.net/pdf?id=KcDcaVOW1S)  
+Baiting Chen, Zhimei Ren, and Lu Cheng. *Neural Information Processing Systems (NeurIPS), 2024*
+
+
 **Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
 Xiaomeng Wang, Zhimei Ren,  Jiancheng Ye     
 
