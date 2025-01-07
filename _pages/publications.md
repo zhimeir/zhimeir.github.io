@@ -8,10 +8,24 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+###### 2025 
+**Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703) 
+Junu Lee, Ilia Popov, and Zhimei Ren.   
+
+
+
+**Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/pdf/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
+Yonghoon Lee and Zhimei Ren.   
+
+
+
+
+
+
 ###### 2024
 ---
 **Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297)  
-Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou     
+Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou.     
 
 
 **Conformalized Time Series with Semantic Features** [paper](https://openreview.net/pdf?id=KcDcaVOW1S)  
@@ -19,7 +33,7 @@ Baiting Chen, Zhimei Ren, and Lu Cheng. *Neural Information Processing Systems (
 
 
 **Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
-Xiaomeng Wang, Zhimei Ren,  Jiancheng Ye     
+Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye.     
 
 **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)   
  Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. *Neural Information Processing Systems (NeurIPS), 2024*
@@ -81,7 +95,7 @@ Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022).
 Ying Jin\*, Zhimei Ren\*, and Emmanuel Candès. *Proceedings of the National Academy of Sciences, 2023* .  
 Runner up for Tom Ten Have Award at American Causal Inference Conference (ACIC) 2022 (presented by Ying Jin)
 
-**Examining the impact of sex differences and the COVID-19 pandemic on health and health care: findings from a national cross-sectional study** [bioRxiv](https://doi.org/10.1093/jamiaopen/ooac076) | [reprodution code](https://github.com/zhimeir/HINTS_analysis)    
+**Examining the impact of sex differences and the COVID-19 pandemic on health and health care: findings from a national cross-sectional study** [bioRxiv](https://doi.org/10.1093/jamiaopen/ooac076) | [reproduction code](https://github.com/zhimeir/HINTS_analysis)    
   Jiancheng Ye and Zhimei Ren. *JAMIA Open, 2022*
   
 
