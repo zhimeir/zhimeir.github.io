@@ -9,6 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 ###### 2025 
+---
 **Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703)   
 Junu Lee, Ilia Popov, and Zhimei Ren.   
 
