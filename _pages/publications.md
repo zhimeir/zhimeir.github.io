@@ -15,7 +15,7 @@ Junu Lee, Ilia Popov, and Zhimei Ren.
 
 
 
-**Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/pdf/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
+**Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/abs/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
 Yonghoon Lee and Zhimei Ren.   
 
 
