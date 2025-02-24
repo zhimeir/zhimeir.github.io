@@ -67,24 +67,24 @@ Jiahao Ai and Zhimei Ren. *International Conference on Machine Learning (ICML), 
 **Simultaneous activity and attenuation estimation
 in TOF-PET with TV-constrained nonconvex
 optimization** [arXiv](https://arxiv.org/abs/2303.17042) | [reproduction code](https://github.com/zhimeir/saa_admm_paper)   
-Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao, and Xiaochuan Pan. *IEEE Transactions on Medical Imaging*, 2024
+Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao, and Xiaochuan Pan. *IEEE Transactions on Medical Imaging, 2024*
 
 
 **Iterative approximate cross-validation** [arXiv](https://arxiv.org/abs/2303.02732)  
-Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *International Conference on Machine Learning (ICML)*, 2023
+Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *International Conference on Machine Learning (ICML), 2023*
 
 
 ###### 2022 
 --- 
 **Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf)        
-Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang
+Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, to appear*
 
 **Conformalized survival analysis with adaptive cutoffs** [arXiv](https://arxiv.org/abs/2211.01227) | [reproduction code](https://github.com/zhimeir/adaptive_conformal_survival_paper)  
 Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *Biometrika, 2024*
 
 **Derandomized knockoffs: leveraging e-values for false discovery rate
  control** [arXiv](https://arxiv.org/abs/2205.15461) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_fdr) | [talk](https://drive.google.com/file/d/1WLCM9nkE-UZCIvaoM8oLK-dR9DHUjDCi/view)  
-  **Zhimei Ren** and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B)*, 2024
+  **Zhimei Ren** and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B), 2024*
 
 **Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373)     
 Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  Minor revision requested at *Operations Research*    
