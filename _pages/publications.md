@@ -10,6 +10,14 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2025 
 ---
+**Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
+Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett.   
+
+
+**One-at-a-time knockoffs: controlled false discovery rate with higher power** [arXiv](https://arxiv.org/abs/2502.18750) | [reproduction code](https://github.com/charlie-guan/oatk)   
+Charlie K. Guan, Zhimei Ren, and Daniel Apley.   
+
+
 **Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703)   
 Junu Lee, Ilia Popov, and Zhimei Ren.   
 
@@ -49,7 +57,7 @@ Junu Lee and Zhimei Ren.
 
 
 **Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)     
-Ying Jin\* and Zhimei Ren\*.
+Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSSB). 2025+*
 
 
 
@@ -77,14 +85,14 @@ Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *International Conference on Ma
 ###### 2022 
 --- 
 **Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf)        
-Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, to appear*
+Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, 2025+*
 
 **Conformalized survival analysis with adaptive cutoffs** [arXiv](https://arxiv.org/abs/2211.01227) | [reproduction code](https://github.com/zhimeir/adaptive_conformal_survival_paper)  
 Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *Biometrika, 2024*
 
 **Derandomized knockoffs: leveraging e-values for false discovery rate
  control** [arXiv](https://arxiv.org/abs/2205.15461) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_fdr) | [talk](https://drive.google.com/file/d/1WLCM9nkE-UZCIvaoM8oLK-dR9DHUjDCi/view)  
-  **Zhimei Ren** and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B), 2024*
+  Zhimei Ren and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B), 2024*
 
 **Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373)     
 Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  Minor revision requested at *Operations Research*    
