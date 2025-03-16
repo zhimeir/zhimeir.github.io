@@ -57,7 +57,7 @@ Junu Lee and Zhimei Ren.
 
 
 **Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)     
-Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSSB). 2025+*
+Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSS-B). 2025+*
 
 
 
