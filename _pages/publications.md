@@ -11,7 +11,7 @@ nav_order: 2
 ###### 2025 
 ---
 **Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
-Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett.   
+Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *Conference on Learning Theory (COLT), 2025*
 
 
 **One-at-a-time knockoffs: controlled false discovery rate with higher power** [arXiv](https://arxiv.org/abs/2502.18750) | [reproduction code](https://github.com/charlie-guan/oatk)   
@@ -34,7 +34,7 @@ Yonghoon Lee and Zhimei Ren.
 ###### 2024
 ---
 **Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297)  
-Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou.     
+Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou. *International Conference on Machine Learning (ICML), 2025* 
 
 
 **Conformalized Time Series with Semantic Features** [paper](https://openreview.net/pdf?id=KcDcaVOW1S)  
@@ -57,7 +57,7 @@ Junu Lee and Zhimei Ren.
 
 
 **Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)     
-Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSS-B). 2025+*
+Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSS-B), 2025+*
 
 
 
