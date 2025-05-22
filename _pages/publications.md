@@ -99,7 +99,7 @@ Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *Biometrika, 2024*
   Zhimei Ren and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B), 2024*
 
 **Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373)     
-Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  Minor revision requested at *Operations Research*    
+Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  *Operations Research, 2025+*    
 Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022).
 
 ###### 2021
