@@ -29,7 +29,7 @@ I am an assistant professor in the <a href='https://statistics.wharton.upenn.edu
 From 2021-2023, I was a postdoctoral researcher in the Statistics Department at the University of Chicago, 
 advised by Professor <a href='https://rinafb.github.io/'>Rina Foygel Barber</a>. 
 I obtained my Ph.D. in Statistics from Stanford University, advised by Professor <a href='https://candes.su.domains/'>Emmanuel Candès</a>. 
-Prior to this, I received my Bachelor’s degree in Statistics from Peking University. Here is a copy of my <a href='/assets/pdf/CV_Zhimei_Ren.pdf'>CV</a>.
+Prior to this, I received my Bachelor’s degree in Statistics from Peking University. <!--Here is a copy of my <a href='/assets/pdf/CV_Zhimei_Ren.pdf'>CV</a>.-->
 You can also find me on <a href='https://scholar.google.com/citations?user=X3gGi_0AAAAJ&hl=en'>Google scholar</a> and <a href='https://github.com/zhimeir'>GitHub</a>.
 </p>
 
