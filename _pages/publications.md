@@ -37,7 +37,7 @@ Yonghoon Lee and Zhimei Ren.
 
 ###### 2024
 ---
-**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297) | [reproduction code](https://github.com/off-policy-learning/concept-drift-robust-learning) 
+**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297) | [reproduction code](https://github.com/off-policy-learning/concept-drift-robust-learning)   
 Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou. *International Conference on Machine Learning (ICML), 2025* 
 
 
