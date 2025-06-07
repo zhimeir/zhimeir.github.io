@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2025 
 ---
-**Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk] (https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
+**Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
 Ziang Niu and Zhimei Ren.    
 
 
