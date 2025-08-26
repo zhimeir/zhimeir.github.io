@@ -10,6 +10,10 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2025 
 ---
+**Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
+Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. 
+
+
 **Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
 Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *Conference on Learning Theory (COLT), 2025*
 
