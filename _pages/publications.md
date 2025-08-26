@@ -14,6 +14,13 @@ nav_order: 2
 Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. 
 
 
+**ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
+Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.    
+
+
+**Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
+Ziang Niu and Zhimei Ren.    
+
 **Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
 Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *Conference on Learning Theory (COLT), 2025*
 
@@ -37,7 +44,7 @@ Yonghoon Lee and Zhimei Ren.
 
 ###### 2024
 ---
-**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297)  
+**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297) | [reproduction code](https://github.com/off-policy-learning/concept-drift-robust-learning)   
 Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou. *International Conference on Machine Learning (ICML), 2025* 
 
 
@@ -54,7 +61,7 @@ Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye.
 
 
 
-**Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc)    
+**Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc) | [talk](https://drive.google.com/file/d/1XC1q4iDULb0d58wztZgSaDU_PWUNxidR/view)     
 Junu Lee and Zhimei Ren.  
 
 
@@ -88,7 +95,7 @@ Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *International Conference on Ma
 
 ###### 2022 
 --- 
-**Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf)        
+**Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf) | [reproduction code](https://github.com/ying531/pess-policy-learning)       
 Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, 2025+*
 
 **Conformalized survival analysis with adaptive cutoffs** [arXiv](https://arxiv.org/abs/2211.01227) | [reproduction code](https://github.com/zhimeir/adaptive_conformal_survival_paper)  
@@ -98,8 +105,8 @@ Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *Biometrika, 2024*
  control** [arXiv](https://arxiv.org/abs/2205.15461) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_fdr) | [talk](https://drive.google.com/file/d/1WLCM9nkE-UZCIvaoM8oLK-dR9DHUjDCi/view)  
   Zhimei Ren and Rina Foygel Barber. *Journal of the Royal Statistical Society: Series B (JRSS-B), 2024*
 
-**Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373)     
-Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  Minor revision requested at *Operations Research*    
+**Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373) | [reproduction code](https://github.com/ying531/f-sens-paper)   
+Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  *Operations Research, 2025+*    
 Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022).
 
 ###### 2021
