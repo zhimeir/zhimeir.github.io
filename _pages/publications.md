@@ -10,6 +10,11 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2025 
 ---
+**Conditional predictive inference with $L^k$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
+Yonghoon Lee and Zhimei Ren.   
+
+
+
 **ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
 Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.    
 
