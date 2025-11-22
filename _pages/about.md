@@ -39,6 +39,6 @@ I am currently a co-organizer of the <a href='https://www.selectiveinferencesemi
 
 
 <p style="font-size: 15px; font-weight:400">
-I am co-organizing a <a href='https://sites.google.com/view/nsfcrse/home'>workshop on high-dimensional data analysis></a> 
+I am co-organizing a <a href='https://sites.google.com/view/nsfcrse/home'>workshop on high-dimensional data analysis</a> 
 at the Wharton School of the University of Pennsylvania, scheduled for Aug 11-13, 2026. PhD students are welcome to apply.
 </p>
