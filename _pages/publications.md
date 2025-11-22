@@ -13,17 +13,16 @@ nav_order: 2
 **Conditional predictive inference with $L^k$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
 Yonghoon Lee and Zhimei Ren.   
 
+**Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
+Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. 
 
 
 **ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
 Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.    
 
 
-
-
 **Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
 Ziang Niu and Zhimei Ren.    
-
 
 **Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
 Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *Conference on Learning Theory (COLT), 2025*

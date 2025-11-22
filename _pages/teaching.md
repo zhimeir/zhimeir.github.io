@@ -11,7 +11,7 @@ nav_order: 6
 
 ###### At University of Pennsylvania
 
-- STAT 4310 - Statistical Inference. Fall 2023, [Fall 2024](https://canvas.upenn.edu/courses/1814436).
+- STAT 4310 - Statistical Inference. Fall 2023, Fall 2024, [Fall 2025](https://canvas.upenn.edu/courses/1880925).
 
 ---
 
