@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2025 
 ---
-**Conditional predictive inference with $L^k$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
+**Conditional predictive inference with $$L^k$$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
 Yonghoon Lee and Zhimei Ren.   
 
 **Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
