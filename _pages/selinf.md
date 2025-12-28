@@ -25,6 +25,9 @@ The following references are related to the topics covered in the class.
 - Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction. *B. Efron, IMS Monographs*.
 - [Hypothesis Testing with E-values](https://sas.uwaterloo.ca/~wang/files/e-book-final.pdf). *A. Ramdas and R. Wang, Foundations and Trends in Statistics*. 
 - [Theoretical foundations of conformal prediction](https://arxiv.org/abs/2411.11824). *Anastasios N. Angelopoulos, Rina Foygel Barber, and Stephen Bates*.
+###### Resources 
+The [international seminar on selective inference (ISSI)](https://www.selectiveinferenceseminar.com/) hosts a talk on selective inference 
+with discussion. 
 
 ###### Schedule 
 
