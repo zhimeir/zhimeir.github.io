@@ -29,25 +29,23 @@ The following references are related to the topics covered in the class.
 
 ###### Resources 
 The [international seminar on selective inference (ISSI)](https://www.selectiveinferenceseminar.com/) is a weekly online seminar on selective inference 
-and related topics.  
+and related topics. Every week, an invited speaker will give a 45-min talk, followed by a 15-min discussion.  
 
 ###### Schedule 
 
-The following
 
-
-| Date | Topic | Reading | Notes |
-| :------ | :------- | :--------- | :------- |
-| Jan 14 | 1. Overview, e-values, testing the global null  | Efron Ch. 1 | |
-| Jan 19 | MLK day (no class) | | |
-| Jan 21 | 2. Simultaneous inference | Efron Ch. 2-3 | |
-| Jan 26 | 3. The closing principle | Ramdas & Wang Ch. 1-2 | |
-| Jan 28 | 4. Game-theoretic Statistics | Ramdas & Wang Ch. 3-4 | |
-| Feb 2 | 5. Competition-based Testing | | |
-| Feb 4 | 6. Compound Decision-making | Efron Ch. 4-5 | |
-| Feb 9 | 7. Conformal Prediction Basics | Angelopoulos et al. | |
-| Feb 11 | 8. Advanced Topics | | |
-| Feb 16 | 9. Final Presentations | | |
+| Date | Topic | Reading | Deadlines |
+| :------ | :--------- | :--------- | :------- |
+| Monday, Jan 14 | 1. Preliminaries, p-values and e-values, global null testing | Efron Ch. 3.1 <br> Ramdas & Wang Ch. 1-2 | |
+| Wednesday, Jan 19 | MLK day (no class) | | |
+| Monday, Jan 21 | 2. Power analysis of Bonferroni, Simes test, ECDF-based tests  | Efron Ch. 2-3 | |
+| Wednesday, Jan 26 | 3. Merging evidence | Ramdas & Wang Ch. 1-2 | |
+| Monday, Jan 28 | 4.
+| Wednesday, Feb 2 | 5.  
+| Monday, Feb 4 | 6. 
+| Wednesday, Feb 9 | 7. 
+| Feb 11 | 8. 
+| Feb 16 | 9. 
 | Feb 18 | 10. 
 | Feb 23 | 11. 
 | Feb 25 | 12. 
@@ -58,17 +56,17 @@ The following
 | Mar 11 | Spring break (no class)
 | Mar 16 | 16. 
 | Mar 18 | 17. 
-| Mar 23 | 18. 
+| Mar 23 | 18. ||Milestone| 
 | Mar 30 | 19. 
 | Apr 1 | 20. 
 | Apr 6 | 21. 
 | Apr 8 | 22. 
 | Apr 13 | 23. 
 | Apr 15 | 24. 
-| Apr 20 | Presentation 
-| Apr 22 | Presentation
-| Apr 27 | Presentation 
-| Apr 29 | Presentation
+| Apr 20 | Final presentation 
+| Apr 22 | Final presentation
+| Apr 27 | Final presentation 
+| Apr 29 | Final presentation
 
 
 
