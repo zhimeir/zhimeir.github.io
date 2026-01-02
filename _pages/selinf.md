@@ -9,6 +9,8 @@ nav_order: 6
 
 #### Topics in Selective Inference and Predictive Inference
 --- 
+###### Description
+
 
 ###### Syllabus 
 
@@ -17,6 +19,13 @@ nav_order: 6
 - Competition-based testing 
 - Compound decision-making
 - Conformal inference 
+
+
+###### Grading 
+Grading will be determined by a course project. 
+
+
+
 
 
 ###### Reading 
@@ -34,18 +43,18 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 ###### Schedule 
 
 
-| Date | Topic | Reading | Deadlines |
-| :------ | :--------- | :--------- | :------- |
-| Monday, Jan 14 | 1. Preliminaries, p-values and e-values, global null testing | Efron Ch. 3.1 <br> Ramdas & Wang Ch. 1-2 | |
-| Wednesday, Jan 19 | MLK day (no class) | | |
-| Monday, Jan 21 | 2. Power analysis of Bonferroni, Simes test, ECDF-based tests  | Efron Ch. 2-3 | |
-| Wednesday, Jan 26 | 3. Merging evidence | Ramdas & Wang Ch. 1-2 | |
-| Monday, Jan 28 | 4.
-| Wednesday, Feb 2 | 5.  
-| Monday, Feb 4 | 6. 
-| Wednesday, Feb 9 | 7. 
-| Feb 11 | 8. 
-| Feb 16 | 9. 
+| Date | Topic | Reading | 
+| :------: | :--------- | :--------- |
+| Wednesday <br> Jan 14 | 1. Preliminaries, p-values and e-values, global null testing | Efron Ch. 3.1 <br> Ramdas & Wang Ch. 1-2 | 
+| Monday <br> Jan 19 | MLK day (no class) | | 
+| Wednesday <br> Jan 21 | 2. Power analysis of Bonferroni and the combination test| | 
+| Monday <br> Jan 26 | 3. Simes test, ECDF-based tests|| 
+| Wednesday <br> Jan 28 | 4. Merging evidence from multiple sources 
+| Monday <br> Feb 2 | 5. Simultaneous inference, Family-wise error rate ||
+| Wednesday <br> Feb 4 | 6. The closure principle || 
+| Monday <br> Feb 9 | 7. False discovery rate, Benjamini-Hochberg  ||
+| Wednesday <br> Feb 11 | 8. Testing with structure 
+| Monday <br>Feb 16 | 9. 
 | Feb 18 | 10. 
 | Feb 23 | 11. 
 | Feb 25 | 12. 
