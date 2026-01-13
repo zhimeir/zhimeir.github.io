@@ -10,21 +10,36 @@ nav_order: 6
 #### Topics in Selective Inference and Predictive Inference
 --- 
 ###### Description
-
+This course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas. 
 
 ###### Syllabus 
 
 - Multiple testing: global null, FWER, FDR, local FDR 
-- Testing with game-theoretic statistics: e-values 
+- Post-selection inference, sequential testing 
+- Testing with e-values 
 - Empirical Bayes, Compound decision-making
 - Permutation test, Conformal inference 
-- Other topics in distribution-free inference (TBD)
+- Distribution-free predictive inference
 
 
 ###### Grading 
-Grading will be determined by a course project. 
+Grade will be based on a course project. Each student is expected 
+to complete a research project that is related in some way to the themes 
+and topics of the course. Projects may be theoretical or empirical 
+(ideally a mix of both), and  
+students are encouraged to build on or connect to their thesis research.
+The instructor will meet with students individually to discuss project ideas 
+and provide feedback on progress throughout the semester.
 
+There are some important dates:  
+- Proposal (due **Feb 16, 2026**):  Submit a short report (no more than 1 page) stating the 
+research problems that you plan to work on. Describe why they are important or interesting, 
+and provide some appropriate references.
+- Milesone report (due **Mar 23, 2026**): Submit a progress report (no more than 3 pages)
+summarizing what you have completed so far, any preliminary results (theoretical, empirical, or both), and your updated plan for the remainder of the project. 
+- Final report (due **May 4, 2026**): submit a final project report summarizing your goals, methodology, main results, and conclusions. The report should clearly state what was accomplished, include key proofs/derivations and/or experimental details as appropriate, and discuss limitations and possible next steps. Include complete references and, when relevant, provide a link to reproducible code and data.
 
+We use [canvas](https://canvas.upenn.edu/courses/1912414) for submission.
 
 
 
@@ -79,4 +94,3 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 
 
 
-###### Additional references
