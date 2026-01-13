@@ -10,9 +10,9 @@ nav_order: 6
 #### Topics in Selective Inference and Predictive Inference
 --- 
 ###### Description
-This course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas. 
+This PhD course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas. 
 
-###### Syllabus 
+###### Syllabus(pdf) 
 
 - Multiple testing: global null, FWER, FDR, local FDR 
 - Post-selection inference, sequential testing 
@@ -29,15 +29,13 @@ and topics of the course. Projects may be theoretical or empirical
 (ideally a mix of both), and  
 students are encouraged to build on or connect to their thesis research.
 The instructor will meet with students individually to discuss project ideas 
-and provide feedback on progress throughout the semester.
+and provide feedback on progress throughout the semester. The grading components are:
 
-There are some important dates:  
-- Proposal (due **Feb 16, 2026**):  Submit a short report (no more than 1 page) stating the 
-research problems that you plan to work on. Describe why they are important or interesting, 
-and provide some appropriate references.
-- Milesone report (due **Mar 23, 2026**): Submit a progress report (no more than 3 pages)
-summarizing what you have completed so far, any preliminary results (theoretical, empirical, or both), and your updated plan for the remainder of the project. 
-- Final report (due **May 4, 2026**): submit a final project report summarizing your goals, methodology, main results, and conclusions. The report should clearly state what was accomplished, include key proofs/derivations and/or experimental details as appropriate, and discuss limitations and possible next steps. Include complete references and, when relevant, provide a link to reproducible code and data.
+- 10% - Proposal (due **Feb 16, 2026**): Submit a short report (no more than 1 page) stating the research problems that you plan to work on. Describe why they are important or interesting and provide some appropriate references.
+-	10% - Progress report (due **Mar 23, 2026**): Submit a progress report (no more than 3 pages) summarizing what you have completed so far, any preliminary results, and your updated plan for the remainder of the project.
+-	40% - Final presentation (in class): Give an in-class presentation on your project, outlining the problem, approach, main findings, and takeaways. Final timing may be adjusted depending on enrollment.
+-	40% - Final report (due **May 4, 2026**): Submit a final project report summarizing your goals, methodology, main results, and conclusions. Discuss limitations and possible next steps. Include complete references and, when relevant, provide a link to reproducible code and data
+
 
 We use [canvas](https://canvas.upenn.edu/courses/1912414) for submission.
 
