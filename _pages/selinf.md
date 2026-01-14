@@ -12,7 +12,7 @@ nav_order: 6
 ###### Description
 This PhD course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas. 
 
-###### Syllabus(pdf) 
+###### Syllabus 
 
 - Multiple testing: global null, FWER, FDR, local FDR 
 - Post-selection inference, sequential testing 
