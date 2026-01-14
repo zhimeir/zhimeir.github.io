@@ -26,8 +26,7 @@ This PhD course covers topics in selective inference and distribution-free predi
 Grade will be based on a course project. Each student is expected 
 to complete a research project that is related in some way to the themes 
 and topics of the course. Projects may be theoretical or empirical 
-(ideally a mix of both), and  
-students are encouraged to build on or connect to their thesis research.
+(ideally a mix of both), and students are encouraged to build on or connect to their thesis research.
 The instructor will meet with students individually to discuss project ideas 
 and provide feedback on progress throughout the semester. The grading components are:
 
