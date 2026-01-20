@@ -64,9 +64,9 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Jan 28 | 4. Combining evidence (II) | Ramdas & Wang Ch.8, Ch. 12 
 | Mon Feb 2 | 5. Family-wise error rate, simultaneous inference | Efron Ch. 3.2, [Tukey (1991)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011945&referringURL=https%3A%2F%2Fwww.google.com%2F&isResultClick=False) 
 | Wed Feb 4 | 6. The closure principle | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)  
-| Mon Feb 9 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2, 
-| Wed Feb 11 | 8. Empirical Bayes perspective of BH, PRDS | Efron Ch 4.3 & 4.4
-| Mon Feb 16 | 9. Competition-based testing  
+| Mon Feb 9 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2 
+| Wed Feb 11 | 8. Empirical Bayes perspective of BH, PRDS, e-BH | Efron Ch. 4.3 & 4.4
+| Mon Feb 16 | 9. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
 | Wed Feb 18 | 10. local FDR, compound decision-making 
 | Mon Feb 23 | 11. Testing with structures (I) 
 | Wed Feb 25 | 12. Testing with structures (II)
