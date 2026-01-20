@@ -17,8 +17,8 @@ This PhD course covers topics in selective inference and distribution-free predi
 - Multiple testing: global null, FWER, FDR, local FDR 
 - Post-selection inference, sequential testing 
 - Testing with e-values 
-- Empirical Bayes, Compound decision-making
-- Permutation test, Conformal inference 
+- Empirical Bayes, compound decision-making
+- Permutation test, conformal inference 
 - Distribution-free predictive inference
 
 
