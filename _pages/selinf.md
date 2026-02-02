@@ -64,12 +64,12 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Jan 28 | 3. Simes test, combining evidence (I)| Ramdas & Wang Ch. 12  
 | Mon Feb 2 | 4. Combining evidence (II) | Ramdas & Wang Ch.8, Ch. 12 
 | Wed Feb 4 | 5. Family-wise error rate, simultaneous inference | Efron Ch. 3.2, [Tukey (1991)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011945&referringURL=https%3A%2F%2Fwww.google.com%2F&isResultClick=False) 
-| Mon Feb 9 | 6. The closure principle | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)  
+| Mon Feb 9 | 6. The closure principle, graphical testing procedures | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)  
 | Wed Feb 11 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2 
 | Mon Feb 16 | 8. Empirical Bayes perspective of BH, PRDS, e-BH | Efron Ch. 4.3 & 4.4
 | Wed Feb 18 | 9. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
 | Mon Feb 23 | 10. local FDR, compound decision-making | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
-| Wed Feb 25 | 11. Testing with structures (I) 
+| Wed Feb 25 | 11. Testing with structures (I) | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035)  
 | Mon Mar 2 | 12. Testing with structures (II)
 | Wed Mar 4 | 13. Conditional inference 
 | Mon Mar 9 |  Spring break (no class)
