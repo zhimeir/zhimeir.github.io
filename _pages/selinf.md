@@ -65,7 +65,7 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Jan 28 | 4. Combining evidence (II) | Ramdas & Wang Ch.8, Ch. 12 
 | Mon Feb 2 | 5. Simultaneous inference, Family-wise error rate ||
 | Wed Feb 4 | 6. The closure principle || 
-| Mon Feb 9 | 7. False discovery rate, Benjamini-Hochberg  ||
+| Mon Feb 9 | 7. False discovery rate, Benjamini-Hochberg, e-BH ||
 | Wed Feb 11 | 8. Empirical Bayes perspective of BH, PRDS 
 | Mon Feb 16 | 9. Competition-based testing  
 | Wed Feb 18 | 10. local FDR, compound decision-making 
