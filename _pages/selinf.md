@@ -66,24 +66,24 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Feb 4 | 5. Family-wise error rate, simultaneous inference | Efron Ch. 3.2, [Tukey (1991)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011945&referringURL=https%3A%2F%2Fwww.google.com%2F&isResultClick=False) 
 | Mon Feb 9 | 6. The closure principle, graphical testing procedures | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Angelopoulos et al. (2025)](https://arxiv.org/abs/2110.01052), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)  
 | Wed Feb 11 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2 
-| Mon Feb 16 | 8. FDR control of BH under independence, storey's correction, PRDS, e-BH | Efron Ch. 4.3 & 4.4. [Storey et al. (2004)](https://www.jstor.org/stable/3647634?seq=1), [Benjamini & Yekutieli, 2001](https://www.jstor.org/stable/2674075?seq=1)
-| Wed Feb 18 | 9. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
-| Mon Feb 23 | 10. local FDR, compound decision-making | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
-| Wed Feb 25 | 11. Testing with structures (I) | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035)  
-| Mon Mar 2 | 12. Testing with structures (II)
-| Wed Mar 4 | 13. Conditional inference 
+| Mon Feb 16 | 8. FDR control of BH under independence, storey's correction, PRDS, e-BH | Efron Ch. 4.3 & 4.4. [Storey et al. (2004)](https://www.jstor.org/stable/3647634?seq=1)
+|Wed Feb 18| 9. FDR control of BH under dependence, PRDS, e-BH |[Benjamini & Yekutieli (2001)](https://www.jstor.org/stable/2674075?seq=1), [Wang & Ramdas (2022)](https://arxiv.org/abs/2009.02824) 
+| Mon Feb 23 | 10. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
+| Wed Feb 25 | 11. local FDR, compound decision-making | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
+| Mon Mar 2 | 12. Testing with structures (I) | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035)  
+| Wed Mar 4 | 13. Testing with structures (II)
 | Mon Mar 9 |  Spring break (no class)
 | Wed Mar 11 | Spring break (no class)
-| Mon Mar 16 | 14. Post-selection inference, FCR 
-| Wed Mar 18 | 15. Sequential testing 
-| Mon Mar 23 | 16. Basics of conformal prediction, score functions   
-| Wed Mar 25 | 17. Full conformal, Jackknife+, CV+ 
-| Mon Mar 30 | 18. Conformal prediction under distribution shift  
-| Wed Apr 1 | 19. Distribution-free conditional coverage   
-| Mon Apr 6| 20. Distribution-free risk control 
-| Wed Apr 8 | 21. Online conformal inference 
-| Mon Apr 13 | 22. Multiple testing with conformal p-values 
-| Wed Apr 15 | 23. TBD 
+| Mon Mar 16 | 14. Conditional inference 
+| Wed Mar 18 | 15. Post-selection inference, FCR 
+| Mon Mar 23 | 16. Sequential testing 
+| Wed Mar 25 | 17. Basics of conformal prediction, score functions   
+| Mon Mar 30 | 18. Full conformal, Jackknife+, CV+ 
+| Wed Apr 1 | 19. Conformal prediction under distribution shift  
+| Mon Apr 6| 20. Distribution-free conditional coverage   
+| Wed Apr 8 | 21. Distribution-free risk control 
+| Mon Apr 13 | 22. Online conformal inference 
+| Wed Apr 15 | 23. Multiple testing with conformal p-values 
 | Mon Apr 20 | Final presentation
 | Wed Apr 22 | Final presentation 
 | Mon Apr 27 | Final presentation
