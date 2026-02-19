@@ -8,6 +8,12 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+###### 2026 
+---
+**Optimal Training-Conditional Regret for Online Conformal Prediction.** [arXiv](https://www.arxiv.org/abs/2602.16537)  
+Jiadong Liang, Zhimei Ren, Yuxin Chen. 
+
+
 ###### 2025 
 ---
 **Conditional predictive inference with $$L^k$$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
