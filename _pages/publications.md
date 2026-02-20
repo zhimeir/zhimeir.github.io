@@ -20,7 +20,7 @@ Jiadong Liang, Zhimei Ren, Yuxin Chen.
 Yonghoon Lee and Zhimei Ren.   
 
 **Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
-Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. 
+Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. *Harvard Data Science Review, 2026* 
 
 
 **ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
@@ -77,7 +77,7 @@ Junu Lee and Zhimei Ren.
 
 
 **Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)     
-Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSS-B), 2025+*
+Ying Jin\* and Zhimei Ren\*. *Journal of Royal Statistical Society: Series B (JRSS-B), 2025*
 
 
 
@@ -105,7 +105,7 @@ Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *International Conference on Ma
 ###### 2022 
 --- 
 **Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf) | [reproduction code](https://github.com/ying531/pess-policy-learning)       
-Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, 2025+*
+Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *Annals of Statistics, 2025*
 
 **Conformalized survival analysis with adaptive cutoffs** [arXiv](https://arxiv.org/abs/2211.01227) | [reproduction code](https://github.com/zhimeir/adaptive_conformal_survival_paper)  
 Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *Biometrika, 2024*
