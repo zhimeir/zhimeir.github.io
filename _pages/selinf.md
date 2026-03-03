@@ -68,10 +68,10 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Feb 11 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2 
 | Mon Feb 16 | 8. FDR control of BH under independence, storey's correction, PRDS, e-BH | Efron Ch. 4.3 & 4.4. [Storey et al. (2004)](https://www.jstor.org/stable/3647634?seq=1)
 |Wed Feb 18| 9. FDR control of BH under dependence, PRDS, e-BH |[Benjamini & Yekutieli (2001)](https://www.jstor.org/stable/2674075?seq=1), [Wang & Ramdas (2022)](https://arxiv.org/abs/2009.02824) 
-| Mon Feb 23 | 10. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
-| Wed Feb 25 | 11. local FDR, compound decision-making | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
-| Mon Mar 2 | 12. Testing with structures (I) | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035)  
-| Wed Mar 4 | 13. Testing with structures (II)
+| Mon Feb 23 | cancelled due to SNO  
+| Wed Feb 25 | 10. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
+| Mon Mar 2 |  11. knockoffs, marginal and local FDR, empirical Bayes | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
+| Wed Mar 4 | 12. Testing with structures | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035) 
 | Mon Mar 9 |  Spring break (no class)
 | Wed Mar 11 | Spring break (no class)
 | Mon Mar 16 | 14. Conditional inference 
