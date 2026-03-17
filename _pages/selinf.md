@@ -74,16 +74,16 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Mar 4 | 12. Testing with structures | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035) 
 | Mon Mar 9 |  Spring break (no class)
 | Wed Mar 11 | Spring break (no class)
-| Mon Mar 16 | 14. Conditional inference 
-| Wed Mar 18 | 15. Post-selection inference, FCR 
-| Mon Mar 23 | 16. Sequential testing 
-| Wed Mar 25 | 17. Basics of conformal prediction, score functions   
-| Mon Mar 30 | 18. Full conformal, Jackknife+, CV+ 
-| Wed Apr 1 | 19. Conformal prediction under distribution shift  
-| Mon Apr 6| 20. Distribution-free conditional coverage   
-| Wed Apr 8 | 21. Distribution-free risk control 
-| Mon Apr 13 | 22. Online conformal inference 
-| Wed Apr 15 | 23. Multiple testing with conformal p-values 
+| Mon Mar 16 | 13. Post-selection inference, FCR | [Benjamini & Yekutieli (2005)](https://www.tandfonline.com/doi/abs/10.1198/016214504000001907), [Fithian et al.](https://arxiv.org/pdf/1410.2597), [Xu et al. (2024)](https://arxiv.org/abs/2203.12572)    
+| Wed Mar 18 | 14. Basics of conformal prediction, score functions 
+| Mon Mar 23 | 15. Full conformal, Jackknife+, CV+ 
+| Wed Mar 25 | 16. Conformal prediction under distribution shift   
+| Mon Mar 30 | 17. Distribution-free conditional coverage  
+| Wed Apr 1 | 18.  Distribution-free risk control
+| Mon Apr 6| 19.  Online conformal inference 
+| Wed Apr 8 | 20.  Multiple testing with conformal p-values
+| Mon Apr 13 | 21. Selective conformal inference 
+| Wed Apr 15 | Final presentation
 | Mon Apr 20 | Final presentation
 | Wed Apr 22 | Final presentation 
 | Mon Apr 27 | Final presentation
