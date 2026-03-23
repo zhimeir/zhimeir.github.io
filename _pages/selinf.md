@@ -75,8 +75,8 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Mon Mar 9 |  Spring break (no class)
 | Wed Mar 11 | Spring break (no class)
 | Mon Mar 16 | 13. Post-selection inference, FCR | [Benjamini & Yekutieli (2005)](https://www.tandfonline.com/doi/abs/10.1198/016214504000001907), [Fithian et al.](https://arxiv.org/pdf/1410.2597), [Xu et al. (2024)](https://arxiv.org/abs/2203.12572)    
-| Wed Mar 18 | 14. Basics of conformal prediction, score functions 
-| Mon Mar 23 | 15. Full conformal, Jackknife+, CV+ 
+| Wed Mar 18 | 14. Basics of conformal prediction, score functions | Angelopoulos et al. Ch. 1 & 5  
+| Mon Mar 23 | 15. Full conformal, Jackknife+, CV+ | Angelopoulos et al. Ch. 2
 | Wed Mar 25 | 16. Conformal prediction under distribution shift   
 | Mon Mar 30 | 17. Distribution-free conditional coverage  
 | Wed Apr 1 | 18.  Distribution-free risk control
