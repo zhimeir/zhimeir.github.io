@@ -10,6 +10,9 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Multiscale confidence quantification for virtual spatial transcriptomics with UTOPIA** [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.01.708850v1)  
+Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li. 
+
 **Optimal Training-Conditional Regret for Online Conformal Prediction.** [arXiv](https://www.arxiv.org/abs/2602.16537)  
 Jiadong Liang, Zhimei Ren, Yuxin Chen. 
 
