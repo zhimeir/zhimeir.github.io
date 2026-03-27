@@ -13,13 +13,13 @@ nav_order: 2
 **Multiscale confidence quantification for virtual spatial transcriptomics with UTOPIA** [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.01.708850v1)  
 Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li. 
 
-**Optimal Training-Conditional Regret for Online Conformal Prediction.** [arXiv](https://www.arxiv.org/abs/2602.16537)  
+**Optimal Training-Conditional Regret for Online Conformal Prediction** [arXiv](https://www.arxiv.org/abs/2602.16537)  
 Jiadong Liang, Zhimei Ren, Yuxin Chen. 
 
 
 ###### 2025 
 ---
-**Conditional predictive inference with $$L^k$$-coverage control.** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
+**Conditional predictive inference with $$L^k$$-coverage control** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
 Yonghoon Lee and Zhimei Ren.   
 
 **Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
