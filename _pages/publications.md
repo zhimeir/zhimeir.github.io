@@ -38,7 +38,7 @@ Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca 
 
 
 **One-at-a-time knockoffs: controlled false discovery rate with higher power** [arXiv](https://arxiv.org/abs/2502.18750) | [reproduction code](https://github.com/charlie-guan/oatk)   
-Charlie K. Guan, Zhimei Ren, and Daniel Apley.   
+Charlie K. Guan, Zhimei Ren, and Daniel Apley. *Biometrics, 2026+* 
 
 
 **Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703)   
