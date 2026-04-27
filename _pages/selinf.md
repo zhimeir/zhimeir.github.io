@@ -80,9 +80,9 @@ and related topics. Every week, an invited speaker will give a 45-min talk, foll
 | Wed Mar 25 | 16. Conformal prediction under distribution shift |  Angelopoulos et al. Ch. 7, [Tibshirani et al. (2019)](https://arxiv.org/abs/1904.06019), [Lei & Candes (2021)](https://arxiv.org/abs/2006.06138) 
 | Mon Mar 30 | 17. Distribution-free conditional coverage | Angelopoulos et al. Ch. 4 
 | Wed Apr 1 | 18.  Distribution-free risk control | [Bates et al. (2021)](https://arxiv.org/abs/2101.02703), [Angelopoulos et al. (2023)](https://arxiv.org/abs/2208.02814)
-| Mon Apr 6| 19.  Online conformal inference 
-| Wed Apr 8 | 20.  Multiple testing with conformal p-values
-| Mon Apr 13 | 21. Selective conformal inference 
+| Mon Apr 6| 19.  Online conformal inference | Angelopoulos et al. Ch. 8  
+| Wed Apr 8 | 20.  Multiple testing with conformal p-values | [Bates et al. (2023)](https://arxiv.org/abs/2104.08279)
+| Mon Apr 13 | 21. Selective conformal inference | [Jin & Ren (2024)](https://arxiv.org/abs/2403.03868), [Zheng & Jin (2026)](https://arxiv.org/abs/2602.10018) 
 | Wed Apr 15 | Final presentation
 | Mon Apr 20 | Final presentation
 | Wed Apr 22 | Final presentation 
