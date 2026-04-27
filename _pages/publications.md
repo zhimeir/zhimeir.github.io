@@ -41,7 +41,7 @@ Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca 
 Charlie K. Guan, Zhimei Ren, and Daniel Apley. *Biometrics, 2026+* 
 
 
-**Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703)   
+**Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703) | [reproduction code](https://github.com/leejunu/fcnd) | [package](https://pypi.org/project/fcnd/)   
 Junu Lee, Ilia Popov, and Zhimei Ren.   
 
 
