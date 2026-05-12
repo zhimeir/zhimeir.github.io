@@ -10,28 +10,32 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)   
+Yu Gui, Dylan Small, Zhimei Ren
+
+
 **Multiscale confidence quantification for virtual spatial transcriptomics with UTOPIA** [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.01.708850v1)  
-Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li. 
+Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li 
 
 **Optimal Training-Conditional Regret for Online Conformal Prediction** [arXiv](https://www.arxiv.org/abs/2602.16537)  
-Jiadong Liang, Zhimei Ren, Yuxin Chen. 
+Jiadong Liang, Zhimei Ren, Yuxin Chen 
 
 
 ###### 2025 
 ---
 **Conditional predictive inference with $$L^k$$-coverage control** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
-Yonghoon Lee and Zhimei Ren.   
+Yonghoon Lee and Zhimei Ren   
 
 **Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
 Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. *Harvard Data Science Review, 2026* 
 
 
 **ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
-Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.    
+Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*    
 
 
 **Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
-Ziang Niu and Zhimei Ren.    
+Ziang Niu and Zhimei Ren    
 
 **Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
 Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *Conference on Learning Theory (COLT), 2025*
@@ -42,12 +46,12 @@ Charlie K. Guan, Zhimei Ren, and Daniel Apley. *Biometrics, 2026+*
 
 
 **Full-conformal novelty detection: A powerful and non-random approach** [arXiv](https://arxiv.org/abs/2501.02703)   
-Junu Lee, Ilia Popov, and Zhimei Ren.   
+Junu Lee, Ilia Popov, and Zhimei Ren   
 
 
 
 **Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/abs/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
-Yonghoon Lee and Zhimei Ren.   
+Yonghoon Lee and Zhimei Ren   
 
 
 
@@ -65,7 +69,7 @@ Baiting Chen, Zhimei Ren, and Lu Cheng. *Neural Information Processing Systems (
 
 
 **Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
-Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye.     
+Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye     
 
 **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)   
  Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. *Neural Information Processing Systems (NeurIPS), 2024*
@@ -74,7 +78,7 @@ Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye.
 
 
 **Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc) | [talk](https://drive.google.com/file/d/1XC1q4iDULb0d58wztZgSaDU_PWUNxidR/view)     
-Junu Lee and Zhimei Ren.  
+Junu Lee and Zhimei Ren  
 
 
 
