@@ -10,6 +10,10 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)   
+Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren 
+
+
 **Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)   
 Yu Gui, Dylan Small, Zhimei Ren
 
