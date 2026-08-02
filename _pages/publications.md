@@ -10,6 +10,10 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**An analysis of binary isotonic regression: degrees of freedom and implications for calibration** [arXiv](https://arxiv.org/abs/2607.27301)    
+Raphael Rossellini, Rina Foygel Barber, Zhimei Ren, Jake A. Soloff   
+
+
 **Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)   
 Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren 
 
@@ -73,7 +77,7 @@ Baiting Chen, Zhimei Ren, and Lu Cheng. *Neural Information Processing Systems (
 
 
 **Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
-Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye     
+Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye. *AMIA Summits on Translational Science Proceedings, 2025*     
 
 **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)   
  Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. *Neural Information Processing Systems (NeurIPS), 2024*
@@ -82,7 +86,8 @@ Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye
 
 
 **Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc) | [talk](https://drive.google.com/file/d/1XC1q4iDULb0d58wztZgSaDU_PWUNxidR/view)     
-Junu Lee and Zhimei Ren  
+Junu Lee and Zhimei Ren    
+2026 ICSA Junior Researcher Award
 
 
 
