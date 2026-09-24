@@ -10,8 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Sample-Efficient Multiple Testing with Adaptive Data Collection** [arXiv](https://arxiv.org/pdf/2609.26651)   
+Zhanran Lin, Wanteng Ma, Zhimei Ren, Yuting Wei
+
+
+
 **Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)   
-Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren 
+Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren  *Neural Information Processing Systems (NeurIPS), 2026* 
 
 
 **Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)   
