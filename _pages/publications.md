@@ -18,7 +18,7 @@ Raphael Rossellini, Rina Foygel Barber, Zhimei Ren, Jake A. Soloff
 
 
 **Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)   
-Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren  *Neural Information Processing Systems (NeurIPS), 2026* 
+Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren.  *Neural Information Processing Systems (NeurIPS), 2026* 
 
 
 **Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)   
