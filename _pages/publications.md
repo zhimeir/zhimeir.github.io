@@ -10,7 +10,11 @@ nav_order: 2
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
-**Sample-Efficient Multiple Testing with Adaptive Data Collection** [arXiv](https://arxiv.org/pdf/2609.26651)   
+**Compound p-values for competition-based testing** [arXiv](https://arxiv.org/abs/2610.20411) | [reproduction code](https://github.com/leejunu/competition-based-testing)   
+Junu Lee, Rina Foygel Barber, Richard J. Samworth, Zhimei Ren  
+
+
+**Sample-Efficient Multiple Testing with Adaptive Data Collection** [arXiv](https://arxiv.org/abs/2609.26651)   
 Zhanran Lin, Wanteng Ma, Zhimei Ren, Yuting Wei
 
 **An analysis of binary isotonic regression: degrees of freedom and implications for calibration** [arXiv](https://arxiv.org/abs/2607.27301)    
