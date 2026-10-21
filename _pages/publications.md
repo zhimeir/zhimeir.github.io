@@ -17,6 +17,11 @@ _styles: |
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Beyond Scalar Leaderboards: Adaptive Sampling for Pareto Frontier Identification in Multi-Objective LLM Arenas** [arXiv](https://arxiv.org/abs/2610.27447) | [reproduction code](https://github.com/Twist-Shan/Beyond_Scalar_Leaderboards)  
+Liang Twist Shan, Jiahao Ai, Zhimei Ren
+
+
+
 **Compound p-values for competition-based testing** [arXiv](https://arxiv.org/abs/2610.20411) | [reproduction code](https://github.com/leejunu/competition-based-testing)   
 Junu Lee, Rina Foygel Barber, Richard J. Samworth, Zhimei Ren  
 
