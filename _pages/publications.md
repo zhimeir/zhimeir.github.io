@@ -74,7 +74,8 @@ Charlie K. Guan, Zhimei Ren, and Daniel Apley. *[Biometrics, 2026](https://doi.o
 
 
 **Full-conformal novelty detection** [arXiv](https://arxiv.org/abs/2501.02703) | [reproduction code](https://github.com/leejunu/fcnd) | [PyPI](https://pypi.org/project/fcnd/)   
-Junu Lee, Ilia Popov, and Zhimei Ren   
+Junu Lee, Ilia Popov, and Zhimei Ren.  
+*Journal of the American Statistical Association (JASA), 2026+*{: .publication-venue}     
 
 
 
