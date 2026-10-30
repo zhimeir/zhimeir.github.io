@@ -17,6 +17,11 @@ _styles: |
 <!-- _pages/publications.md -->
 ###### 2026 
 ---
+**Conformal ordering: Distribution-free predictive inference for orders and rank** [arXiv](https://arxiv.org/abs/2610.40340) | [reproduction code](https://github.com/yhoon31/order)   
+Yonghoon Lee, Zhimei Ren  
+
+
+
 **Beyond Scalar Leaderboards: Adaptive Sampling for Pareto Frontier Identification in Multi-Objective LLM Arenas** [arXiv](https://arxiv.org/abs/2610.27447) | [reproduction code](https://github.com/Twist-Shan/Beyond_Scalar_Leaderboards)  
 Liang Twist Shan, Jiahao Ai, Zhimei Ren
 
