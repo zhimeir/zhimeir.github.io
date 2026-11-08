@@ -52,8 +52,11 @@ jobs:
           # Skip the Unsplash homepage because it rejects automated requests with 401.
           # The excluded Markdown files contain Liquid tags that require rendering.
           # Preserve handling of publisher bot blocks; rate limits and missing pages still fail.
+          # Check external URLs here; the rendered-site workflow checks internal links.
           args: >-
             --user-agent 'curl/7.54'
+            --root-dir '${{ github.workspace }}'
+            --scheme http --scheme https
             --accept '200..=299,403'
             --max-concurrency 8
             --timeout 60
