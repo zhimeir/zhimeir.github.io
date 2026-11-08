@@ -1,93 +1,90 @@
 ---
 layout: page
 permalink: /selinf/
-title: Stat 9917 
-description: 
+title: Stat 9917
+description:
 nav: false
 nav_order: 6
 ---
 
 #### Topics in Selective Inference and Predictive Inference
---- 
+
+---
+
 ###### Description
-This PhD course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas. 
 
-###### Syllabus 
+This PhD course covers topics in selective inference and distribution-free predictive inference. The first half focuses on selective inference, introducing problems and tools in multiple testing, post-selection inference, and adaptive/sequential inference. The second half centers on distribution-free predictive inference, with an emphasis on conformal inference. Throughout, we highlight recent advances, practical considerations, and open problems in both areas.
 
-- Multiple testing: global null, FWER, FDR, local FDR 
-- Post-selection inference, sequential testing 
-- Testing with e-values 
+###### Syllabus
+
+- Multiple testing: global null, FWER, FDR, local FDR
+- Post-selection inference, sequential testing
+- Testing with e-values
 - Empirical Bayes, compound decision-making
-- Permutation test, conformal inference 
+- Permutation test, conformal inference
 - Distribution-free predictive inference
 
+###### Grading
 
-###### Grading 
-Grade will be based on a course project. Each student is expected 
-to complete a research project that is related in some way to the themes 
-and topics of the course. Projects may be theoretical or empirical 
+Grade will be based on a course project. Each student is expected
+to complete a research project that is related in some way to the themes
+and topics of the course. Projects may be theoretical or empirical
 (ideally a mix of both), and students are encouraged to build on or connect to their thesis research.
-The instructor will meet with students individually to discuss project ideas 
+The instructor will meet with students individually to discuss project ideas
 and provide feedback on progress throughout the semester. The grading components are:
 
 - 10% - Proposal (due **Feb 16, 2026**): Submit a short report (no more than 1 page) stating the research problems that you plan to work on. Describe why they are important or interesting and provide some appropriate references.
--	10% - Progress report (due **Mar 23, 2026**): Submit a progress report (no more than 3 pages) summarizing what you have completed so far, any preliminary results, and your updated plan for the remainder of the project.
--	40% - Final presentation (in class): Give an in-class presentation on your project, outlining the problem, approach, main findings, and takeaways. Final timing may be adjusted depending on enrollment.
--	40% - Final report (due **May 4, 2026**): Submit a final project report summarizing your goals, methodology, main results, and conclusions. Discuss limitations and possible next steps. Include complete references and, when relevant, provide a link to reproducible code and data
-
+- 10% - Progress report (due **Mar 23, 2026**): Submit a progress report (no more than 3 pages) summarizing what you have completed so far, any preliminary results, and your updated plan for the remainder of the project.
+- 40% - Final presentation (in class): Give an in-class presentation on your project, outlining the problem, approach, main findings, and takeaways. Final timing may be adjusted depending on enrollment.
+- 40% - Final report (due **May 4, 2026**): Submit a final project report summarizing your goals, methodology, main results, and conclusions. Discuss limitations and possible next steps. Include complete references and, when relevant, provide a link to reproducible code and data
 
 We use [canvas](https://canvas.upenn.edu/courses/1912414) for submission.
 
+###### Reading
 
-
-###### Reading 
 The following references are related to the topics covered in the class.
 
-- Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction. *B. Efron, IMS Monographs*.
-- [Hypothesis Testing with E-values](https://sas.uwaterloo.ca/~wang/files/e-book-final.pdf). *A. Ramdas and R. Wang, Foundations and Trends in Statistics*. 
-- [Theoretical foundations of conformal prediction](https://arxiv.org/abs/2411.11824). *Anastasios N. Angelopoulos, Rina Foygel Barber, and Stephen Bates*.
+- Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction. _B. Efron, IMS Monographs_.
+- [Hypothesis Testing with E-values](https://sas.uwaterloo.ca/~wang/files/e-book-final.pdf). _A. Ramdas and R. Wang, Foundations and Trends in Statistics_.
+- [Theoretical foundations of conformal prediction](https://arxiv.org/abs/2411.11824). _Anastasios N. Angelopoulos, Rina Foygel Barber, and Stephen Bates_.
 
+###### Resources
 
-###### Resources 
-The [international seminar on selective inference (ISSI)](https://www.selectiveinferenceseminar.com/) is a weekly online seminar on selective inference 
-and related topics. Every week, an invited speaker will give a 45-min talk, followed by a 15-min discussion.  
+The [international seminar on selective inference (ISSI)](https://www.selectiveinferenceseminar.com/) is a weekly online seminar on selective inference
+and related topics. Every week, an invited speaker will give a 45-min talk, followed by a 15-min discussion.
 
-###### Schedule 
+###### Schedule
 
-
-| Date | Topic | Reading | 
-| :-------- | :--------- | :--------- |
-| Wed Jan 14 | 1. Preliminaries, p-values and e-values, global null testing | Efron Ch. 3.1, Ramdas & Wang Ch. 1-2 | 
-| Mon Jan 19 | MLK day (no class) | | 
-| Wed Jan 21 | 2. Power analysis of Bonferroni and the combination test|  [Owen (2009)](https://arxiv.org/pdf/0911.3531), [Donoho & Jin (2004)](https://arxiv.org/pdf/math/0410072) 
-| Mon Jan 26 | cancelled due to SNO
-| Wed Jan 28 | 3. Simes test, combining evidence (I)| Ramdas & Wang Ch. 12  
-| Mon Feb 2 | 4. Combining evidence (II) | Ramdas & Wang Ch.8, Ch. 12 
-| Wed Feb 4 | 5. Family-wise error rate, simultaneous inference | Efron Ch. 3.2, [Tukey (1991)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011945&referringURL=https%3A%2F%2Fwww.google.com%2F&isResultClick=False) 
-| Mon Feb 9 | 6. The closure principle, graphical testing procedures | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Angelopoulos et al. (2025)](https://arxiv.org/abs/2110.01052), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)  
-| Wed Feb 11 | 7. False discovery rate, Benjamini-Hochberg  | Efron Ch. 4.1 & 4.2 
-| Mon Feb 16 | 8. FDR control of BH under independence, storey's correction, PRDS, e-BH | Efron Ch. 4.3 & 4.4. [Storey et al. (2004)](https://www.jstor.org/stable/3647634?seq=1)
-|Wed Feb 18| 9. FDR control of BH under dependence, PRDS, e-BH |[Benjamini & Yekutieli (2001)](https://www.jstor.org/stable/2674075?seq=1), [Wang & Ramdas (2022)](https://arxiv.org/abs/2009.02824) 
-| Mon Feb 23 | cancelled due to SNO  
-| Wed Feb 25 | 10. Competition-based testing | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)
-| Mon Mar 2 |  11. knockoffs, marginal and local FDR, empirical Bayes | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)  
-| Wed Mar 4 | 12. Testing with structures | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035) 
-| Mon Mar 9 |  Spring break (no class)
-| Wed Mar 11 | Spring break (no class)
-| Mon Mar 16 | 13. Post-selection inference, FCR | [Benjamini & Yekutieli (2005)](https://www.tandfonline.com/doi/abs/10.1198/016214504000001907), [Fithian et al.](https://arxiv.org/pdf/1410.2597), [Xu et al. (2024)](https://arxiv.org/abs/2203.12572)    
-| Wed Mar 18 | 14. Basics of conformal prediction, score functions | Angelopoulos et al. Ch. 1 & 5  
-| Mon Mar 23 | 15. Full conformal, Jackknife+, CV+ | Angelopoulos et al. Ch. 2
-| Wed Mar 25 | 16. Conformal prediction under distribution shift |  Angelopoulos et al. Ch. 7, [Tibshirani et al. (2019)](https://arxiv.org/abs/1904.06019), [Lei & Candes (2021)](https://arxiv.org/abs/2006.06138) 
-| Mon Mar 30 | 17. Distribution-free conditional coverage | Angelopoulos et al. Ch. 4 
-| Wed Apr 1 | 18.  Distribution-free risk control | [Bates et al. (2021)](https://arxiv.org/abs/2101.02703), [Angelopoulos et al. (2023)](https://arxiv.org/abs/2208.02814)
-| Mon Apr 6| 19.  Online conformal inference | Angelopoulos et al. Ch. 8  
-| Wed Apr 8 | 20.  Multiple testing with conformal p-values | [Bates et al. (2023)](https://arxiv.org/abs/2104.08279)
-| Mon Apr 13 | 21. Selective conformal inference | [Jin & Ren (2024)](https://arxiv.org/abs/2403.03868), [Zheng & Jin (2026)](https://arxiv.org/abs/2602.10018) 
-| Wed Apr 15 | Final presentation
-| Mon Apr 20 | Final presentation
-| Wed Apr 22 | Final presentation 
-| Mon Apr 27 | Final presentation
-| Wed Apr 29 | Final presentation 
-
-
-
+| Date       | Topic                                                                    | Reading                                                                                                                                                                                                 |
+| :--------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Wed Jan 14 | 1. Preliminaries, p-values and e-values, global null testing             | Efron Ch. 3.1, Ramdas & Wang Ch. 1-2                                                                                                                                                                    |
+| Mon Jan 19 | MLK day (no class)                                                       |                                                                                                                                                                                                         |
+| Wed Jan 21 | 2. Power analysis of Bonferroni and the combination test                 | [Owen (2009)](https://arxiv.org/pdf/0911.3531), [Donoho & Jin (2004)](https://arxiv.org/pdf/math/0410072)                                                                                               |
+| Mon Jan 26 | cancelled due to SNO                                                     |
+| Wed Jan 28 | 3. Simes test, combining evidence (I)                                    | Ramdas & Wang Ch. 12                                                                                                                                                                                    |
+| Mon Feb 2  | 4. Combining evidence (II)                                               | Ramdas & Wang Ch.8, Ch. 12                                                                                                                                                                              |
+| Wed Feb 4  | 5. Family-wise error rate, simultaneous inference                        | Efron Ch. 3.2, [Tukey (1991)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011945&referringURL=https%3A%2F%2Fwww.google.com%2F&isResultClick=False)                       |
+| Mon Feb 9  | 6. The closure principle, graphical testing procedures                   | Efron Ch. 3.3, [Goeman & Solari (2011)](https://arxiv.org/abs/1208.2841), [Angelopoulos et al. (2025)](https://arxiv.org/abs/2110.01052), [Hartog & Lei (2025)](https://arxiv.org/pdf/2501.09015)       |
+| Wed Feb 11 | 7. False discovery rate, Benjamini-Hochberg                              | Efron Ch. 4.1 & 4.2                                                                                                                                                                                     |
+| Mon Feb 16 | 8. FDR control of BH under independence, storey's correction, PRDS, e-BH | Efron Ch. 4.3 & 4.4. [Storey et al. (2004)](https://www.jstor.org/stable/3647634?seq=1)                                                                                                                 |
+| Wed Feb 18 | 9. FDR control of BH under dependence, PRDS, e-BH                        | [Benjamini & Yekutieli (2001)](https://www.jstor.org/stable/2674075?seq=1), [Wang & Ramdas (2022)](https://arxiv.org/abs/2009.02824)                                                                    |
+| Mon Feb 23 | cancelled due to SNO                                                     |
+| Wed Feb 25 | 10. Competition-based testing                                            | [Barber & Candes (2015)](https://arxiv.org/pdf/1404.5609), [Candes et al (2018)](https://arxiv.org/pdf/1610.02351)                                                                                      |
+| Mon Mar 2  | 11. knockoffs, marginal and local FDR, empirical Bayes                   | Efron Ch. 5, [Soloff, Xiang & Fithian (2024)](https://arxiv.org/abs/2207.07299)                                                                                                                         |
+| Wed Mar 4  | 12. Testing with structures                                              | [Ignatiadis & Huber (2016)](https://www.nature.com/articles/nmeth.3885), [Lei & Fithian (2018)](https://arxiv.org/abs/1609.06035)                                                                       |
+| Mon Mar 9  | Spring break (no class)                                                  |
+| Wed Mar 11 | Spring break (no class)                                                  |
+| Mon Mar 16 | 13. Post-selection inference, FCR                                        | [Benjamini & Yekutieli (2005)](https://www.tandfonline.com/doi/abs/10.1198/016214504000001907), [Fithian et al.](https://arxiv.org/pdf/1410.2597), [Xu et al. (2024)](https://arxiv.org/abs/2203.12572) |
+| Wed Mar 18 | 14. Basics of conformal prediction, score functions                      | Angelopoulos et al. Ch. 1 & 5                                                                                                                                                                           |
+| Mon Mar 23 | 15. Full conformal, Jackknife+, CV+                                      | Angelopoulos et al. Ch. 2                                                                                                                                                                               |
+| Wed Mar 25 | 16. Conformal prediction under distribution shift                        | Angelopoulos et al. Ch. 7, [Tibshirani et al. (2019)](https://arxiv.org/abs/1904.06019), [Lei & Candes (2021)](https://arxiv.org/abs/2006.06138)                                                        |
+| Mon Mar 30 | 17. Distribution-free conditional coverage                               | Angelopoulos et al. Ch. 4                                                                                                                                                                               |
+| Wed Apr 1  | 18. Distribution-free risk control                                       | [Bates et al. (2021)](https://arxiv.org/abs/2101.02703), [Angelopoulos et al. (2023)](https://arxiv.org/abs/2208.02814)                                                                                 |
+| Mon Apr 6  | 19. Online conformal inference                                           | Angelopoulos et al. Ch. 8                                                                                                                                                                               |
+| Wed Apr 8  | 20. Multiple testing with conformal p-values                             | [Bates et al. (2023)](https://arxiv.org/abs/2104.08279)                                                                                                                                                 |
+| Mon Apr 13 | 21. Selective conformal inference                                        | [Jin & Ren (2024)](https://arxiv.org/abs/2403.03868), [Zheng & Jin (2026)](https://arxiv.org/abs/2602.10018)                                                                                            |
+| Wed Apr 15 | Final presentation                                                       |
+| Mon Apr 20 | Final presentation                                                       |
+| Wed Apr 22 | Final presentation                                                       |
+| Mon Apr 27 | Final presentation                                                       |
+| Wed Apr 29 | Final presentation                                                       |

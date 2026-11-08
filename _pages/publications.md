@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publication 
+title: Publication
 description:
 nav: true
 nav_order: 2
@@ -15,210 +15,177 @@ _styles: |
 ---
 
 <!-- _pages/publications.md -->
-###### 2026 
+
+###### 2026
+
 ---
-**Conformal ordering: Distribution-free predictive inference for orders and rank** [arXiv](https://arxiv.org/abs/2610.40340) | [reproduction code](https://github.com/yhoon31/order)   
-Yonghoon Lee, Zhimei Ren  
 
-
+**Conformal ordering: Distribution-free predictive inference for orders and rank** [arXiv](https://arxiv.org/abs/2610.40340) | [reproduction code](https://github.com/yhoon31/order)  
+Yonghoon Lee, Zhimei Ren
 
 **Beyond Scalar Leaderboards: Adaptive Sampling for Pareto Frontier Identification in Multi-Objective LLM Arenas** [arXiv](https://arxiv.org/abs/2610.27447) | [reproduction code](https://github.com/Twist-Shan/Beyond_Scalar_Leaderboards)  
 Liang Twist Shan, Jiahao Ai, Zhimei Ren
 
+**Compound p-values for competition-based testing** [arXiv](https://arxiv.org/abs/2610.20411) | [reproduction code](https://github.com/leejunu/competition-based-testing)  
+Junu Lee, Rina Foygel Barber, Richard J. Samworth, Zhimei Ren
 
-
-**Compound p-values for competition-based testing** [arXiv](https://arxiv.org/abs/2610.20411) | [reproduction code](https://github.com/leejunu/competition-based-testing)   
-Junu Lee, Rina Foygel Barber, Richard J. Samworth, Zhimei Ren  
-
-
-**Sample-Efficient Multiple Testing with Adaptive Data Collection** [arXiv](https://arxiv.org/abs/2609.26651)   
+**Sample-Efficient Multiple Testing with Adaptive Data Collection** [arXiv](https://arxiv.org/abs/2609.26651)  
 Zhanran Lin, Wanteng Ma, Zhimei Ren, Yuting Wei
 
-**An analysis of binary isotonic regression: degrees of freedom and implications for calibration** [arXiv](https://arxiv.org/abs/2607.27301)    
-Raphael Rossellini, Rina Foygel Barber, Zhimei Ren, Jake A. Soloff   
+**An analysis of binary isotonic regression: degrees of freedom and implications for calibration** [arXiv](https://arxiv.org/abs/2607.27301)  
+Raphael Rossellini, Rina Foygel Barber, Zhimei Ren, Jake A. Soloff
 
+**Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)  
+Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren. _[Neural Information Processing Systems (NeurIPS), 2026](https://neurips.cc/virtual/2026/poster/151595)_{: .publication-venue}
 
-**Learning to target with network interference** [arXiv](https://arxiv.org/abs/2605.27794) | [reproduction code](https://github.com/Xiaomengwang99/Interference_bandit_public)   
-Xiaomeng Wang, Hamsa Bastani, Osbert Bastani, Zhimei Ren.  *[Neural Information Processing Systems (NeurIPS), 2026](https://neurips.cc/virtual/2026/poster/151595)*{: .publication-venue} 
-
-
-**Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)   
+**Adaptive discovery of effect modification in matched observational studies** [arXiv](https://arxiv.org/abs/2605.09741) | [reproduction code](https://github.com/yugjerry/ada_subgroup_selection)  
 Yu Gui, Dylan Small, Zhimei Ren
 
-
 **Multiscale confidence quantification for virtual spatial transcriptomics with UTOPIA** [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.01.708850v1)  
-Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li 
+Kaitian Jin, Zihao Chen, Xiaokang Yu, Musu Yuan, Amelia Schroeder, Bernhard Dumoulin, Yunhe Liu, Linghua Wang, Jeong Hwan Park, Tae Hyun Hwang, Katalin Susztak, Zhimei Ren, Nancy R. Zhang, and Mingyao Li
 
 **Optimal Training-Conditional Regret for Online Conformal Prediction** [arXiv](https://www.arxiv.org/abs/2602.16537)  
-Jiadong Liang, Zhimei Ren, Yuxin Chen 
+Jiadong Liang, Zhimei Ren, Yuxin Chen
 
+###### 2025
 
-###### 2025 
 ---
-**Conditional predictive inference with $$L^k$$-coverage control** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)   
-Yonghoon Lee and Zhimei Ren   
 
-**Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)   
-Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. *[Harvard Data Science Review, 2026](https://doi.org/10.1162/99608f92.072aebb0)*{: .publication-venue} 
+**Conditional predictive inference with $$L^k$$-coverage control** [arXiv](https://arxiv.org/abs/2509.21691) | [reproduction code](https://github.com/yhoon31/L_k_conditional_inference)  
+Yonghoon Lee and Zhimei Ren
 
+**Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection** [arXiv](https://arxiv.org/abs/2507.23113) | [reproduction code](https://github.com/Xieyangxinyu/Watermark-in-the-Classroom)  
+Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. _[Harvard Data Science Review, 2026](https://doi.org/10.1162/99608f92.072aebb0)_{: .publication-venue}
 
-**ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
+**ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)  
 Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.
-*[Journal of the American Statistical Association (JASA), 2026+](https://www.tandfonline.com/doi/abs/10.1080/01621459.2026.2757634)* 
+_[Journal of the American Statistical Association (JASA), 2026+](https://www.tandfonline.com/doi/abs/10.1080/01621459.2026.2757634)_{: .publication-venue}
 
+**Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)  
+Ziang Niu and Zhimei Ren
 
-**Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
-Ziang Niu and Zhimei Ren    
+**Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)  
+Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. _[Conference on Learning Theory (COLT), 2025](https://proceedings.mlr.press/v291/rossellini25a.html)_{: .publication-venue}
 
-**Can a calibration metric be both testable and actionable?** [arXiv](https://arxiv.org/abs/2502.19851) | [reproduction code](https://github.com/rrross/CutoffCalibration)   
-Raphael Rossellini, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, and Rebecca Willett. *[Conference on Learning Theory (COLT), 2025](https://proceedings.mlr.press/v291/rossellini25a.html)*{: .publication-venue}
+**One-at-a-time knockoffs: controlled false discovery rate with higher power** [arXiv](https://arxiv.org/abs/2502.18750) | [reproduction code](https://github.com/charlie-guan/oatk)  
+Charlie K. Guan, Zhimei Ren, and Daniel Apley. _[Biometrics, 2026](https://doi.org/10.1093/biomtc/ujag119)_{: .publication-venue}
 
-
-**One-at-a-time knockoffs: controlled false discovery rate with higher power** [arXiv](https://arxiv.org/abs/2502.18750) | [reproduction code](https://github.com/charlie-guan/oatk)   
-Charlie K. Guan, Zhimei Ren, and Daniel Apley. *[Biometrics, 2026](https://doi.org/10.1093/biomtc/ujag119)*{: .publication-venue} 
-
-
-**Full-conformal novelty detection** [arXiv](https://arxiv.org/abs/2501.02703) | [reproduction code](https://github.com/leejunu/fcnd) | [PyPI](https://pypi.org/project/fcnd/)   
-Junu Lee, Ilia Popov, and Zhimei Ren. *Journal of the American Statistical Association (JASA), 2026+*{: .publication-venue}     
-
-
+**Full-conformal novelty detection** [arXiv](https://arxiv.org/abs/2501.02703) | [reproduction code](https://github.com/leejunu/fcnd) | [PyPI](https://pypi.org/project/fcnd/)  
+Junu Lee, Ilia Popov, and Zhimei Ren. _Journal of the American Statistical Association (JASA), 2026+_{: .publication-venue}
 
 **Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/abs/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
-Yonghoon Lee and Zhimei Ren. *Journal of the American Statistical Association (JASA), 2026+*{: .publication-venue}     
-
-
-
-
-
-
+Yonghoon Lee and Zhimei Ren. _Journal of the American Statistical Association (JASA), 2026+_{: .publication-venue}
 
 ###### 2024
----
-**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297) | [reproduction code](https://github.com/off-policy-learning/concept-drift-robust-learning)   
-Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou. *[International Conference on Machine Learning (ICML), 2025](https://proceedings.mlr.press/v267/wang25cm.html)*{: .publication-venue} 
 
+---
+
+**Distributionally Robust Policy Learning under Concept Drifts** [arXiv](https://arxiv.org/abs/2412.14297) | [reproduction code](https://github.com/off-policy-learning/concept-drift-robust-learning)  
+Jingyuan Wang, Zhimei Ren, Ruohan Zhan, and Zhengyuan Zhou. _[International Conference on Machine Learning (ICML), 2025](https://proceedings.mlr.press/v267/wang25cm.html)_{: .publication-venue}
 
 **Conformalized Time Series with Semantic Features** [paper](https://openreview.net/pdf?id=KcDcaVOW1S)  
-Baiting Chen, Zhimei Ren, and Lu Cheng. *[Neural Information Processing Systems (NeurIPS), 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html)*{: .publication-venue}
+Baiting Chen, Zhimei Ren, and Lu Cheng. _[Neural Information Processing Systems (NeurIPS), 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html)_{: .publication-venue}
 
+**Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)  
+Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye. _[AMIA Summits on Translational Science Proceedings, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12150701/)_{: .publication-venue}
 
-**Predicting survival time for critically ill patients with heart failure using conformalized survival analysis** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.09.07.24313245v2) | [Rshiny](https://username434.shinyapps.io/Heart_failure_conformalized_survival_analysis/)   
-Xiaomeng Wang, Zhimei Ren, and Jiancheng Ye. *[AMIA Summits on Translational Science Proceedings, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12150701/)*{: .publication-venue}     
+**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)  
+ Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. _[Neural Information Processing Systems (NeurIPS), 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/870ccde24673d3970a680bb48496ed63-Abstract-Conference.html)_{: .publication-venue}
 
-**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees** [arXiv](https://arxiv.org/abs/2405.10301) | [reproduction code](https://github.com/yugjerry/conformal-alignment)   
- Yu Gui\*, Ying Jin\*, and Zhimei Ren\*. *[Neural Information Processing Systems (NeurIPS), 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/870ccde24673d3970a680bb48496ed63-Abstract-Conference.html)*{: .publication-venue}
-
-
-
-
-**Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc) | [talk](https://drive.google.com/file/d/1XC1q4iDULb0d58wztZgSaDU_PWUNxidR/view)     
-Junu Lee and Zhimei Ren    
+**Boosting e-BH via conditional calibration** [arXiv](https://arxiv.org/abs/2404.17562) | [reproduction code](https://github.com/leejunu/e-bh-cc) | [talk](https://drive.google.com/file/d/1XC1q4iDULb0d58wztZgSaDU_PWUNxidR/view)  
+Junu Lee and Zhimei Ren  
 2026 ICSA Junior Researcher Award
 
-
-
-
-**Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)     
-Ying Jin\* and Zhimei Ren\*. *[Journal of Royal Statistical Society: Series B (JRSS-B), 2025](https://doi.org/10.1093/jrsssb/qkaf016)*{: .publication-venue}
-
-
+**Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage** [arXiv](https://arxiv.org/abs/2403.03868) | [reproduction code](https://github.com/ying531/JOMI-paper)  
+Ying Jin\* and Zhimei Ren\*. _[Journal of Royal Statistical Society: Series B (JRSS-B), 2025](https://doi.org/10.1093/jrsssb/qkaf016)_{: .publication-venue}
 
 **UPLC-MS/MS Analysis of Urinary Oligosaccharides and Glycoamino Acids for the Diagnosis of Mucopolysaccharidosis and Glycoproteinosis** [PubMed](https://pubmed.ncbi.nlm.nih.gov/38597162/)  
-Parith Wongkittichote, Se Hyun Cho, Artis Miller, Kaitlyn King, Zackary M. Herbst, Zhimei Ren, Michael H. Gelb, and Xinying Hong. *[Clinical Chemistry, 2024](https://doi.org/10.1093/clinchem/hvae043)*{: .publication-venue}
+Parith Wongkittichote, Se Hyun Cho, Artis Miller, Kaitlyn King, Zackary M. Herbst, Zhimei Ren, Michael H. Gelb, and Xinying Hong. _[Clinical Chemistry, 2024](https://doi.org/10.1093/clinchem/hvae043)_{: .publication-venue}
 
+**Not all distributional shifts are equal: Fine-grained robust conformal inference** [arXiv](https://arxiv.org/abs/2402.13042) | [reproduction code](https://github.com/zhimeir/finegrained-conformal-paper)  
+Jiahao Ai and Zhimei Ren. _[International Conference on Machine Learning (ICML), 2024](https://proceedings.mlr.press/v235/ai24a.html)_{: .publication-venue}
 
+###### 2023
 
-**Not all distributional shifts are equal: Fine-grained robust conformal inference** [arXiv](https://arxiv.org/abs/2402.13042) | [reproduction code](https://github.com/zhimeir/finegrained-conformal-paper)   
-Jiahao Ai and Zhimei Ren. *[International Conference on Machine Learning (ICML), 2024](https://proceedings.mlr.press/v235/ai24a.html)*{: .publication-venue}
-
-###### 2023 
 ---
 
 **Simultaneous activity and attenuation estimation
 in TOF-PET with TV-constrained nonconvex
-optimization** [arXiv](https://arxiv.org/abs/2303.17042) | [reproduction code](https://github.com/zhimeir/saa_admm_paper)   
-Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao, and Xiaochuan Pan. *[IEEE Transactions on Medical Imaging, 2024](https://doi.org/10.1109/TMI.2024.3365302)*{: .publication-venue}
-
+optimization** [arXiv](https://arxiv.org/abs/2303.17042) | [reproduction code](https://github.com/zhimeir/saa_admm_paper)  
+Zhimei Ren, Emil Y. Sidky, Rina Foygel Barber, Chien-Min Kao, and Xiaochuan Pan. _[IEEE Transactions on Medical Imaging, 2024](https://doi.org/10.1109/TMI.2024.3365302)_{: .publication-venue}
 
 **Iterative approximate cross-validation** [arXiv](https://arxiv.org/abs/2303.02732)  
-Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. *[International Conference on Machine Learning (ICML), 2023](https://proceedings.mlr.press/v202/luo23d.html)*{: .publication-venue}
+Yuetian Luo, Zhimei Ren, and Rina Foygel Barber. _[International Conference on Machine Learning (ICML), 2023](https://proceedings.mlr.press/v202/luo23d.html)_{: .publication-venue}
 
+###### 2022
 
-###### 2022 
---- 
-**Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf) | [reproduction code](https://github.com/ying531/pess-policy-learning)       
-Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. *[Annals of Statistics, 2025](https://doi.org/10.1214/25-AOS2511)*{: .publication-venue}
+---
+
+**Policy learning “without” overlap: Pessimism and generalized empirical Bernstein’s inequality** [arXiv](https://arxiv.org/pdf/2212.09900.pdf) | [reproduction code](https://github.com/ying531/pess-policy-learning)  
+Ying Jin\*, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang. _[Annals of Statistics, 2025](https://doi.org/10.1214/25-AOS2511)_{: .publication-venue}
 
 **Conformalized survival analysis with adaptive cutoffs** [arXiv](https://arxiv.org/abs/2211.01227) | [reproduction code](https://github.com/zhimeir/adaptive_conformal_survival_paper)  
-Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. *[Biometrika, 2024](https://doi.org/10.1093/biomet/asad076)*{: .publication-venue}
+Yu Gui\*, Rohan Hore\*, Zhimei Ren\*, and Rina Foygel Barber. _[Biometrika, 2024](https://doi.org/10.1093/biomet/asad076)_{: .publication-venue}
 
 **Derandomized knockoffs: leveraging e-values for false discovery rate
- control** [arXiv](https://arxiv.org/abs/2205.15461) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_fdr) | [talk](https://drive.google.com/file/d/1WLCM9nkE-UZCIvaoM8oLK-dR9DHUjDCi/view)  
-  Zhimei Ren and Rina Foygel Barber. *[Journal of the Royal Statistical Society: Series B (JRSS-B), 2024](https://doi.org/10.1093/jrsssb/qkad085)*{: .publication-venue}
+control** [arXiv](https://arxiv.org/abs/2205.15461) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_fdr) | [talk](https://drive.google.com/file/d/1WLCM9nkE-UZCIvaoM8oLK-dR9DHUjDCi/view)  
+ Zhimei Ren and Rina Foygel Barber. _[Journal of the Royal Statistical Society: Series B (JRSS-B), 2024](https://doi.org/10.1093/jrsssb/qkad085)_{: .publication-venue}
 
-**Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373) | [reproduction code](https://github.com/ying531/f-sens-paper)   
-Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou.  *[Operations Research, 2025](https://doi.org/10.1287/opre.2023.0001)*{: .publication-venue}    
+**Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective** [arXiv](https://arxiv.org/abs/2203.04373) | [reproduction code](https://github.com/ying531/f-sens-paper)  
+Ying Jin\*, Zhimei Ren\*, and Zhengyuan Zhou. _[Operations Research, 2025](https://doi.org/10.1287/opre.2023.0001)_{: .publication-venue}  
 Student Paper Award at ICSA Applied Statistics Symposium (Ying Jin, 2022).
 
 ###### 2021
+
 ---
-**Sensitivity analysis of individual treatment effects: a robust conformal inference approach** [arXiv](https://arxiv.org/abs/2111.12161) | [software](https://github.com/zhimeir/cfsensitivity) | [reproduction code](https://github.com/ying531/cfsensitivity_paper/blob/main/README.md) | [website](https://zhimeir.github.io/cfsensitivity/) | [talk](https://www.youtube.com/watch?v=aM3auY7kgSA)      
-Ying Jin\*, Zhimei Ren\*, and Emmanuel Candès. *[Proceedings of the National Academy of Sciences, 2023](https://doi.org/10.1073/pnas.2214889120)*{: .publication-venue} .  
+
+**Sensitivity analysis of individual treatment effects: a robust conformal inference approach** [arXiv](https://arxiv.org/abs/2111.12161) | [software](https://github.com/zhimeir/cfsensitivity) | [reproduction code](https://github.com/ying531/cfsensitivity_paper/blob/main/README.md) | [website](https://zhimeir.github.io/cfsensitivity/) | [talk](https://www.youtube.com/watch?v=aM3auY7kgSA)  
+Ying Jin\*, Zhimei Ren\*, and Emmanuel Candès. _[Proceedings of the National Academy of Sciences, 2023](https://doi.org/10.1073/pnas.2214889120)_{: .publication-venue} .  
 Runner up for Tom Ten Have Award at American Causal Inference Conference (ACIC) 2022 (presented by Ying Jin)
 
-**Examining the impact of sex differences and the COVID-19 pandemic on health and health care: findings from a national cross-sectional study** [bioRxiv](https://doi.org/10.1093/jamiaopen/ooac076) | [reproduction code](https://github.com/zhimeir/HINTS_analysis)    
-  Jiancheng Ye and Zhimei Ren. *[JAMIA Open, 2022](https://doi.org/10.1093/jamiaopen/ooac076)*{: .publication-venue}
-  
+**Examining the impact of sex differences and the COVID-19 pandemic on health and health care: findings from a national cross-sectional study** [bioRxiv](https://doi.org/10.1093/jamiaopen/ooac076) | [reproduction code](https://github.com/zhimeir/HINTS_analysis)  
+ Jiancheng Ye and Zhimei Ren. _[JAMIA Open, 2022](https://doi.org/10.1093/jamiaopen/ooac076)_{: .publication-venue}
 
-**Transfer learning in genome-wide association studies with knockoffs** [arXiv](https://arxiv.org/abs/2108.08813) | [reproduction code](https://github.com/lsn235711/transfer_knockoffs_code) | [website](https://msesia.github.io/knockoffgwas/ukbiobank.html)          
-Shuangning Li\*, Zhimei Ren\*, Chiara Sabatti\*, and Matteo Sesia\*. *[Sankhya B, 2022](https://doi.org/10.1007/s13571-022-00297-y)*{: .publication-venue}
+**Transfer learning in genome-wide association studies with knockoffs** [arXiv](https://arxiv.org/abs/2108.08813) | [reproduction code](https://github.com/lsn235711/transfer_knockoffs_code) | [website](https://msesia.github.io/knockoffgwas/ukbiobank.html)  
+Shuangning Li\*, Zhimei Ren\*, Chiara Sabatti\*, and Matteo Sesia\*. _[Sankhya B, 2022](https://doi.org/10.1007/s13571-022-00297-y)_{: .publication-venue}
 
+**Policy learning with adaptively collected data** [arXiv](https://arxiv.org/abs/2105.02344) | [reproduction code](https://github.com/gsbDBI/PolicyLearning)  
+Ruohan Zhan\*, Zhimei Ren\*, Susan Athey, and Zhengyuan Zhou. _[Management Science, 2024](https://doi.org/10.1287/mnsc.2023.4921)_{: .publication-venue}
 
-**Policy learning with adaptively collected data** [arXiv](https://arxiv.org/abs/2105.02344) | [reproduction code](https://github.com/gsbDBI/PolicyLearning)     
-Ruohan Zhan\*, Zhimei Ren\*, Susan Athey, and Zhengyuan Zhou. *[Management Science, 2024](https://doi.org/10.1287/mnsc.2023.4921)*{: .publication-venue}
+**Conformalized survival analysis** [arXiv](https://arxiv.org/abs/2103.09763) | [software](https://github.com/zhimeir/cfsurvival) | [reproduction code](https://github.com/zhimeir/cfsurv_paper)| [website](https://zhimeir.github.io/cfsurvival/index.html)  
+Emmanuel Candès\*, Lihua Lei\*, and Zhimei Ren\*. _[Journal of the Royal Statistical Society: Series B (JRSS-B), 2023](https://doi.org/10.1093/jrsssb/qkac004)_{: .publication-venue}
 
-**Conformalized survival analysis** [arXiv](https://arxiv.org/abs/2103.09763) | [software](https://github.com/zhimeir/cfsurvival) | [reproduction code](https://github.com/zhimeir/cfsurv_paper)| [website](https://zhimeir.github.io/cfsurvival/index.html)      
-Emmanuel Candès\*, Lihua Lei\*, and Zhimei Ren\*. *[Journal of the Royal Statistical Society: Series B (JRSS-B), 2023](https://doi.org/10.1093/jrsssb/qkac004)*{: .publication-venue}
-  
 **Online Multi-armed bandits with adaptive inference** [arXiv](https://arxiv.org/abs/2102.13202)  
-Maria Dimakopoulou, Zhimei Ren, and Zhengyuan Zhou. *[Neural Information Processing Systems (NeurIPS), 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/0ec04cb3912c4f08874dd03716f80df1-Abstract.html)*{: .publication-venue}
- 
+Maria Dimakopoulou, Zhimei Ren, and Zhengyuan Zhou. _[Neural Information Processing Systems (NeurIPS), 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/0ec04cb3912c4f08874dd03716f80df1-Abstract.html)_{: .publication-venue}
+
 ###### 2020
---- 
-**Derandomizing knockoffs** [arXiv](https://arxiv.org/abs/2012.02717) | [software](https://github.com/zhimeir/derandomKnock) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_paper) | [website](https://zhimeir.github.io/derandomKnock/index.html) | [talk](https://drive.google.com/file/d/1zPsQJ_GRgqFCuBw3WHs_0QTTJDdDZvOY/view)   
-Zhimei Ren, Yuting Wei, and Emmanuel Candès. *[Journal of American Statistical Association, 2023](https://doi.org/10.1080/01621459.2021.1962720)*{: .publication-venue}
-  
-  
-  
-**Dynamic batch learning in high-dimensional sparse linear contextual bandits** [arXiv](https://arxiv.org/abs/2008.11918)    
-Zhimei Ren and Zhengyuan Zhou *[Management Science, 2024](https://doi.org/10.1287/mnsc.2023.4895)*{: .publication-venue}    
+
+---
+
+**Derandomizing knockoffs** [arXiv](https://arxiv.org/abs/2012.02717) | [software](https://github.com/zhimeir/derandomKnock) | [reproduction code](https://github.com/zhimeir/derandomized_knockoffs_paper) | [website](https://zhimeir.github.io/derandomKnock/index.html) | [talk](https://drive.google.com/file/d/1zPsQJ_GRgqFCuBw3WHs_0QTTJDdDZvOY/view)  
+Zhimei Ren, Yuting Wei, and Emmanuel Candès. _[Journal of American Statistical Association, 2023](https://doi.org/10.1080/01621459.2021.1962720)_{: .publication-venue}
+
+**Dynamic batch learning in high-dimensional sparse linear contextual bandits** [arXiv](https://arxiv.org/abs/2008.11918)  
+Zhimei Ren and Zhengyuan Zhou _[Management Science, 2024](https://doi.org/10.1287/mnsc.2023.4895)_{: .publication-venue}  
 Finalist, INFORMS Service Science Section 2021 Best Cluster Paper Award
-  
-  
-**Batched learning in generalized linear contextual bandits with general decision sets** [paper](https://ieeexplore.ieee.org/document/9309392)     
-Zhimei Ren, Zhengyuan Zhou, and Jayant R. Kalagnanam. *[IEEE Control System Letters (L-CSS), 2021](https://ieeexplore.ieee.org/document/9309392)*{: .publication-venue}
-  
-  
-  
-**Knockoffs with side information** [arXiv](https://arxiv.org/abs/2001.07835) | [software](https://github.com/zhimeir/adaptiveKnockoffs) | [reproduction code](https://github.com/zhimeir/adaptive_knockoff_paper) | [website](https://zhimeir.github.io/adaptiveKnockoffs)   
-Zhimei Ren and Emmanuel Candès. *[Annals of Applied Statistics, 2023](https://doi.org/10.1214/22-AOAS1663)*{: .publication-venue}
-  
-###### 2019 
------ 
-  
-**Batched multi-armed bandits problem** [arXiv](https://arxiv.org/abs/1904.01763)      
-Zijun Gao\*, Yanjun Han\*, Zhimei Ren\*, and Zhengqing Zhou\*. *[Neural Information Processing Systems (NeurIPS), oral presentation, 2019](https://proceedings.neurips.cc/paper/2019/hash/20f07591c6fcb220ffe637cda29bb3f6-Abstract.html)*{: .publication-venue}
 
+**Batched learning in generalized linear contextual bandits with general decision sets** [paper](https://ieeexplore.ieee.org/document/9309392)  
+Zhimei Ren, Zhengyuan Zhou, and Jayant R. Kalagnanam. _[IEEE Control System Letters (L-CSS), 2021](https://ieeexplore.ieee.org/document/9309392)_{: .publication-venue}
 
+**Knockoffs with side information** [arXiv](https://arxiv.org/abs/2001.07835) | [software](https://github.com/zhimeir/adaptiveKnockoffs) | [reproduction code](https://github.com/zhimeir/adaptive_knockoff_paper) | [website](https://zhimeir.github.io/adaptiveKnockoffs)  
+Zhimei Ren and Emmanuel Candès. _[Annals of Applied Statistics, 2023](https://doi.org/10.1214/22-AOAS1663)_{: .publication-venue}
 
-**Replication and generalization in applied neuroimaging** [paper](https://www.sciencedirect.com/science/article/pii/S1053811919306299?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=-801539831&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM563904&utm_source=AC_30 )   
-Garikoitz Lerma-Usabiaga, Pratik Mukherjee, Zhimei Ren, Michael L.Perry, and Brian A.Wandell. *[NeuroImage, 2019](https://doi.org/10.1016/j.neuroimage.2019.116048)*{: .publication-venue}
+###### 2019
 
+---
 
+**Batched multi-armed bandits problem** [arXiv](https://arxiv.org/abs/1904.01763)  
+Zijun Gao\*, Yanjun Han\*, Zhimei Ren\*, and Zhengqing Zhou\*. _[Neural Information Processing Systems (NeurIPS), oral presentation, 2019](https://proceedings.neurips.cc/paper/2019/hash/20f07591c6fcb220ffe637cda29bb3f6-Abstract.html)_{: .publication-venue}
 
-(* = alphabetical ordering or equal contribution)
+**Replication and generalization in applied neuroimaging** [paper](https://www.sciencedirect.com/science/article/pii/S1053811919306299?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=-801539831&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM563904&utm_source=AC_30)  
+Garikoitz Lerma-Usabiaga, Pratik Mukherjee, Zhimei Ren, Michael L.Perry, and Brian A.Wandell. _[NeuroImage, 2019](https://doi.org/10.1016/j.neuroimage.2019.116048)_{: .publication-venue}
 
-
+(\* = alphabetical ordering or equal contribution)
 
 <!-- Bibsearch Feature -->
 
@@ -227,4 +194,4 @@ Garikoitz Lerma-Usabiaga, Pratik Mukherjee, Zhimei Ren, Michael L.Perry, and Bri
 
 {% bibliography %}
 
-</div> 
+</div>
