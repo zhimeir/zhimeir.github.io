@@ -45,7 +45,7 @@ We use [canvas](https://canvas.upenn.edu/courses/1912414) for submission.
 The following references are related to the topics covered in the class.
 
 - Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction. _B. Efron, IMS Monographs_.
-- [Hypothesis Testing with E-values](https://sas.uwaterloo.ca/~wang/files/e-book-final.pdf). _A. Ramdas and R. Wang, Foundations and Trends in Statistics_.
+- [Hypothesis Testing with E-values](https://arxiv.org/abs/2410.23614). _A. Ramdas and R. Wang, Foundations and Trends in Statistics_.
 - [Theoretical foundations of conformal prediction](https://arxiv.org/abs/2411.11824). _Anastasios N. Angelopoulos, Rina Foygel Barber, and Stephen Bates_.
 
 ###### Resources
