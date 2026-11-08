@@ -64,7 +64,7 @@ Yangxinyu Xie, Xuyang Chen, Zhimei Ren, Weijie J. Su. *[Harvard Data Science Rev
 
 **ACS: An interactive framework for conformal selection** [arXiv](https://arxiv.org/abs/2507.15825) | [reproduction code](https://github.com/zhimeir/acs_paper)   
 Yu Gui\*, Ying Jin\*, Yash Nair\*, and Zhimei Ren\*.
-*Journal of the American Statistical Association (JASA), 2026+*{: .publication-venue}     
+*[Journal of the American Statistical Association (JASA), 2026+](https://www.tandfonline.com/doi/abs/10.1080/01621459.2026.2757634)* 
 
 
 **Assumption-lean weak limits and tests for two-stage adaptive experiments** [arXiv](https://arxiv.org/abs/2505.10747) | [reproduction code](https://github.com/ZiangNiu6/AdaInf-manuscript) | [talk](https://drive.google.com/file/d/1B0RsmL7X3ikRMaDi1cgs6aRwOdCPBbY1/view)   
@@ -84,7 +84,8 @@ Junu Lee, Ilia Popov, and Zhimei Ren. *Journal of the American Statistical Assoc
 
 
 **Selection from Hierarchical Data with Conformal e-values** [arXiv](https://arxiv.org/abs/2501.02514) | [reproduction code](https://github.com/yhoon31/selection_hierarchical)  
-Yonghoon Lee and Zhimei Ren   
+Yonghoon Lee and Zhimei Ren. *Journal of the American Statistical Association (JASA), 2026+*{: .publication-venue}     
+
 
 
 
